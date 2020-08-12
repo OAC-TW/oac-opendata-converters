@@ -37,7 +37,7 @@ import (
 
 var (
 	inFile = flag.String("i", "F-A0020-001.zip", "input XML in zip file")
-	outFile = flag.String("o", "20072318.000.grid.json", "output file")
+	//outFile = flag.String("o", "20072318.000.grid.json", "output file")
 
 
 	proxyAddr = flag.String("x", "", "socks5 proxy addr (127.0.0.1:5005)")
