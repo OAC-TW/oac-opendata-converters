@@ -36,6 +36,13 @@
 	* 自動抓取最新資料並移除過時資料
 	* 解壓縮/轉換時CPU核心可能會吃滿3核(可由指令參數調整)
 
+## demo
+
+* 啟動簡易的web server, 將根目錄指向本專案
+	* 例如: `http://127.0.0.1:8080/`
+* 開啟瀏覽器, 連至web server, 檢視各項目目錄底下的`demo.html`
+	* 例如: `http://127.0.0.1:8080/oceancurrent-proc/demo.html`
+
 ## TODO
 
 * [ ]將一些共通的結構/function整合成一份, 用import的方式引入

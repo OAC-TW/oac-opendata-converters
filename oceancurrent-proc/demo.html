@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+	<meta charset="utf-8">
+	<title>oceancurrent Demo</title>
+	<meta name="viewport" content="width=device-width">
+</head>
+<body>
+
+<div id="map"></div>
+
+<!--vendor-->
+<link rel="stylesheet" href="../assets/leaflet.css" crossorigin=""/>
+<script src="../assets/jquery-3.4.1.min.js" crossorigin=""></script>
+<script src="../assets/leaflet.js" crossorigin=""></script>
+
+<!--leaflet-velocity-->
+<link rel="stylesheet" href="../assets/leaflet-velocity.css" />
+<script src="../assets/leaflet-velocity.js"></script>
+
+<!--demo-->
+<link rel="stylesheet" href="../assets/demo.css" />
+<script src="../assets/demo.js"></script>
+
+<!--code-->
+<script type="text/javascript">
+var velocityLayer;
+var velocityLayer2;
+var layer;
+$.getJSON("sample/M-B0071-000.20200812-1530.grid.json", function(data) {
+console.time('parse uv')
+	var uv = [
+		{
+			"header": {
+				"parameterCategory":  2,
+				"parameterNumber":   2,
+				"scanMode": 0,
+				"nx": data.nx,
+				"ny": data.ny,
+				"lo1": data.lo1,
+				"la1": data.la1,
+				"lo2": data.lo2,
+				"la2": data.la2,
+				"dx": (data.lo2 - data.lo1) / (data.nx-1),
+				"dy": (data.la1 - data.la2) / (data.ny-1),
+			},
+			"data":[]
+		},
+		{
+			"header": {
+				"parameterCategory":  2,
+				"parameterNumber":   3,
+				"scanMode": 0,
+				"nx": data.nx,
+				"ny": data.ny,
+				"lo1": data.lo1,
+				"la1": data.la1,
+				"lo2": data.lo2,
+				"la2": data.la2,
+				//"dx": 0.1,
+				//"dy": 0.1,
+				"dx": (data.lo2 - data.lo1) / (data.nx-1),
+				"dy": (data.la1 - data.la2) / (data.ny-1),
+			},
+			"data":[]
+		},
+	]
+	uv[0].data = data.d['X']
+	uv[1].data = data.d['Y']
+
+console.log("uv", data, uv);
+
+	// 加至圖層
+	velocityLayer = L.velocityLayer({
+		displayValues: true,
+		displayOptions: {
+			velocityType: "海流",
+			displayPosition: "bottomleft",
+			displayEmptyString: "無資料"
+		},
+		angleConvention: "meteoCCW",
+		data: uv,
+		reverseX: false,
+		reverseY: true,
+		maxVelocity: 35,
+		lineWidth: 10,
+		velocityScale: 0.05,
+		frameRate: 12,
+//		colorScale: ['#fff'],
+//		colorScale: ['#fff', '#07e4e6', '#0768e6', '#003269'],
+//		colorScale: ['#fff', '#0768e6'],
+//		colorScale: ['#0791ff', '#0791ff', '#0791ff', '#00000010', '#808080', '#808080'],
+		colorScale: ['#fff', '#fff', '#fff', '#00000010', '#808080'],
+		waveStyle: true,
+		opacity: 0.7,
+		particleAge: 48,
+		particleMinAge: 12,
+	});
+	velocityLayer.addTo(map);
+	layerControl.addOverlay(velocityLayer, "海流");
+console.timeEnd('parse uv')
+
+	// 樣式2
+	velocityLayer2 = L.velocityLayer({
+		displayValues: true,
+		displayOptions: {
+			velocityType: "海流",
+			displayPosition: "bottomleft",
+			displayEmptyString: "無資料"
+		},
+		angleConvention: "meteoCCW",
+		data: uv,
+		reverseX: false,
+		reverseY: true,
+		maxVelocity: 35,
+		lineWidth: 2,
+		velocityScale: 0.05,
+		frameRate: 12,
+	});
+	layerControl.addOverlay(velocityLayer2, "海流 - 樣式2");
+
+
+
+	// 海溫
+	layer = new L.gradientLayer({
+		reverseX: false,
+		reverseY: true,
+		minIntensity: 14,
+		maxIntensity: 31,
+		dpx: 2,
+		data: {
+			d: {'v': data.d['海表溫度']},
+			la1: data.la1,
+			la2: data.la2,
+			lo1: data.lo1,
+			lo2: data.lo2,
+			nx: data.nx,
+			ny: data.ny,
+		},
+		//interpolateType: "NearestNeighbor",
+		colorScale: [
+			"#00000000", // transparent for no data
+
+			"#00ffd8b2", // 15-
+			"#00ffaeb2", // 15+
+			"#00ff7bb2", // 16+
+			"#00ff4cb2", // 17+
+			"#00ff14b2", // 18+
+			"#19ff00b2", // 19+
+			"#48ff00b2", // 20+
+			"#7bff00b2", // 21+
+			"#b2ff00b2", // 22+
+			"#ddff00b2", // 23+
+			"#ffee00b2", // 24+
+			"#ffbf00b2", // 25+
+			"#ff9400b2", // 26+
+			"#ff6100b2", // 27+
+			"#FF3300b2", // 28+
+			"#FF0000b2", // 29+
+			"#d30500b2", // 30+
+		],
+	});
+	//layer.addTo(map);
+	layerControl.addOverlay(layer, "海溫");
+
+});
+</script>
+
+</body>
+</html>

@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+	<meta charset="utf-8">
+	<title>oceanwave Demo</title>
+	<meta name="viewport" content="width=device-width">
+</head>
+<body>
+
+<div id="map"></div>
+
+<!--vendor-->
+<link rel="stylesheet" href="../assets/leaflet.css" crossorigin=""/>
+<script src="../assets/jquery-3.4.1.min.js" crossorigin=""></script>
+<script src="../assets/leaflet.js" crossorigin=""></script>
+
+<!--leaflet-velocity-->
+<link rel="stylesheet" href="../assets/leaflet-velocity.css" />
+<script src="../assets/leaflet-velocity.js"></script>
+
+<!--demo-->
+<link rel="stylesheet" href="../assets/demo.css" />
+<script src="../assets/demo.js"></script>
+
+<!--code-->
+<script type="text/javascript">
+
+const DATA_URL = 'sample/json/20061706.000.grid.json';
+
+// 浪高
+var gradient2DHS = new L.gradientLayer({
+	reverseX: false,
+	reverseY: true,
+	interpolateType: "NearestNeighbor",
+	dpx: 2,
+	//minIntensity: 0,
+	//maxIntensity: 250,
+});
+gradient2DHS.addTo(map);
+layerControl.addOverlay(gradient2DHS, "浪高");
+
+$.ajax({
+	method: 'GET',
+	url: DATA_URL,
+	dataType: 'json',
+	cache: true,
+	success: function(data, textStatus, jqXHR){
+		var tmp = {
+			d: {'v': data.d['浪高']},
+			la1: data.la1,
+			la2: data.la2,
+			lo1: data.lo1,
+			lo2: data.lo2,
+			nx: data.nx,
+			ny: data.ny,
+		}
+		gradient2DHS.setOptions({
+			minIntensity: data.drange['浪高'][0],
+			maxIntensity: data.drange['浪高'][1],
+			data: tmp,
+		})
+		console.log("[gradient2D]HS", data, gradient2DHS);
+	}
+});
+
+
+// 週期
+var gradient2DT = new L.gradientLayer({
+	reverseX: false,
+	reverseY: true,
+	interpolateType: "NearestNeighbor",
+	dpx: 2,
+	//minIntensity: 0,
+	//maxIntensity: 1000,
+});
+layerControl.addOverlay(gradient2DT, "週期");
+
+$.ajax({
+	method: 'GET',
+	url: DATA_URL,
+	dataType: 'json',
+	cache: true,
+	success: function(data, textStatus, jqXHR){
+		var tmp = {
+			d: {'v': data.d['週期']},
+			la1: data.la1,
+			la2: data.la2,
+			lo1: data.lo1,
+			lo2: data.lo2,
+			nx: data.nx,
+			ny: data.ny,
+		}
+		gradient2DT.setOptions({
+			minIntensity: data.drange['週期'][0],
+			maxIntensity: data.drange['週期'][1],
+			data: tmp,
+		})
+		console.log("[gradient2D]T", data, gradient2DT);
+	}
+});
+
+
+
+// 浪向
+var convFn = function(){
+	const sin = Math.sin
+	const cos = Math.cos
+	const DEG2RAD = Math.PI / 180
+	return function(i, uData, vData) {
+		var rad = ((uData[i]+0)%360) * DEG2RAD;
+		var l = (vData[i])? 2.5 : 0;//vData[i] * 0.005;
+		var x = cos(rad) * l;
+		var y = sin(rad) * l;
+		return [x, y];
+	}
+};
+var wave = new L.velocityLayer({
+	displayValues: false,
+	reverseX: false,
+	reverseY: true,
+	maxVelocity: 35,
+	lineWidth: 6,
+	velocityScale: 0.02,
+	frameRate: 12,
+	//colorScale: ['#000'],
+//	colorScale: ['#fff', '#07e4e6', '#0768e6', '#003269'],
+//	colorScale: ['#fff', '#0768e6'],
+//	colorScale: ['#0791ff', '#0791ff', '#0791ff', '#00000010', '#808080', '#808080'],
+	colorScale: ['#fff', '#fff', '#fff', '#00000010', '#808080'],
+	waveStyle: true,
+	opacity: 0.8,
+	particleAge: 48,
+	particleMinAge: 12,
+	/*dataFn: function(i, uData, vData) {
+		return [uData[i], vData[i]];
+	},*/
+	dataFn: convFn(), // pass function for convert single point
+});
+wave.addTo(map);
+layerControl.addOverlay(wave, "浪向");
+
+$.ajax({
+	method: 'GET',
+	url: DATA_URL,
+	dataType: 'json',
+	cache: true,
+	success: function(data, textStatus, jqXHR){
+		var uv = [
+			{
+				"header": {
+					"parameterCategory":  2,
+					"parameterNumber":   2,
+					"scanMode": 0,
+					"nx": data.nx,
+					"ny": data.ny,
+					"lo1": data.lo1,
+					"la1": data.la1,
+					"lo2": data.lo2,
+					"la2": data.la2,
+					"dx": (data.lo2 - data.lo1) / (data.nx-1),
+					"dy": (data.la1 - data.la2) / (data.ny-1),
+				},
+				"data":[]
+			},
+			{
+				"header": {
+					"parameterCategory":  2,
+					"parameterNumber":   3,
+					"scanMode": 0,
+					"nx": data.nx,
+					"ny": data.ny,
+					"lo1": data.lo1,
+					"la1": data.la1,
+					"lo2": data.lo2,
+					"la2": data.la2,
+					"dx": (data.lo2 - data.lo1) / (data.nx-1),
+					"dy": (data.la1 - data.la2) / (data.ny-1),
+				},
+				"data":[]
+			},
+		]
+		uv[0].data = data.d['浪向'] // 0度 = 正東?, 正方向 = 逆時針?
+		uv[1].data = data.d['週期'] // '浪高'?
+
+		wave.setData(uv)
+		console.log("[wave]data", data, uv);
+	}
+});
+</script>
+
+</body>
+</html>
