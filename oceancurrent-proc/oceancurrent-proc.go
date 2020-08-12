@@ -10,7 +10,7 @@ package main
 
 import (
 	"flag"
-//	"log"
+	"log"
 	"time"
 	"fmt"
 
@@ -18,7 +18,7 @@ import (
 	"os"
 	"strings"
 	"strconv"
-	//"errors"
+	"errors"
 
 	"encoding/json"
 	"encoding/xml"
@@ -36,9 +36,14 @@ var (
 	inFile = flag.String("i", "M-B0071-000.xml", "input XML file")
 	outFile = flag.String("o", "M-B0071-000.grid.json", "output file")
 
+	proxyAddr = flag.String("x", "", "socks5 proxy addr (127.0.0.1:5005)")
+	connTimeout = flag.Int("timeout", 10, "connect timeout in Seconds")
+
 	token = flag.String("auth", "CWB-XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX", "token") // 氣象局open data的API授權碼
 	url = flag.String("u", "https://opendata.cwb.gov.tw/fileapi/v1/opendataapi/M-B0071-000?Authorization=%v&downloadType=WEB&format=XML", "url")
 	UA = flag.String("ua", "OAC bot", "User-Agent")
+
+	verbosity = flag.Int("v", 3, "verbosity for app")
 
 	hookUrl = flag.String("hook", "http://127.0.0.1:8080/api/push/89HuRzqCRlRGIrhSifYN", "web hook URL")
 )
@@ -52,50 +57,77 @@ func main() {
 	}
 
 	aurl := fmt.Sprintf(*url, *token)
-	fd, err := getUrlFd(aurl)
+	dialFunc := func(network, address string) (net.Conn, error) {
+		return net.DialTimeout("tcp", address, time.Duration(*connTimeout) * time.Second)
+	}
+	if *proxyAddr != "" {
+		dialFunc = func(network, address string) (net.Conn, error) {
+			if network != "tcp" {
+				return nil, errors.New("only support tcp")
+			}
+			return makeConnection(address, *proxyAddr, time.Duration(*connTimeout) * time.Second)
+		}
+	}
+
+	fd, err := getUrlFd(aurl, dialFunc)
 	if err != nil {
-		fmt.Println("[get]err", aurl, err)
+		Vln(2, "[get]err", aurl, err)
 		return
 	}
 	defer fd.Close()
 
 	grid, err := parseXML(fd)
 	if err != nil {
-		fmt.Println("[parse]err", err)
+		Vln(2, "[parse]err", err)
 		return
 	}
-	fmt.Println("[grid]", grid.Nx, grid.Ny)
+	Vln(3, "[grid]", grid.Nx, grid.Ny)
 
 	var buf bytes.Buffer
 	enc := json.NewEncoder(&buf)
 	err = enc.Encode(grid)
 	if err != nil {
-		fmt.Println("[json]err", err)
+		Vln(2, "[json]err", err)
 	}
-	fmt.Println("[json]ok")
+	Vln(3, "[json]ok")
 
-	postUrl(*hookUrl, *outFile, &buf)
-	fmt.Println("[post]", *hookUrl)
+	if *hookUrl != "" {
+		postUrl(*hookUrl, *outFile, &buf)
+		Vln(3, "[post]", *hookUrl)
+	} else {
+		of, err := os.OpenFile(*outFile, os.O_TRUNC|os.O_CREATE|os.O_WRONLY, 0600)
+		if err != nil {
+			Vln(2, "[open]err", *outFile, err)
+			return
+		}
+		defer of.Close()
+
+		_, err = io.Copy(of, &buf)
+		if err != nil {
+			Vln(2, "[write]err", *outFile, err)
+			return
+		}
+	}
 }
 
 func transFile(inFp string, outFp string) {
 	fd, err := os.OpenFile(inFp, os.O_CREATE|os.O_RDONLY, 0400)
 	if err != nil {
-		fmt.Println("[open]err", *inFile, err)
+		Vln(2, "[open]err", *inFile, err)
 		return
 	}
 	defer fd.Close()
 
 	grid, err := parseXML(fd)
 	if err != nil {
-		fmt.Println("[parse]err", err)
+		Vln(2, "[parse]err", err)
 		return
 	}
-	fmt.Println("[grid]", grid.Nx, grid.Ny)
+	Vln(3, "[grid]", grid.Nx, grid.Ny)
 
 	of, err := os.OpenFile(outFp, os.O_TRUNC|os.O_CREATE|os.O_WRONLY, 0600)
 	if err != nil {
-		fmt.Println("[open]err", *outFile, err)
+		Vln(2, "[open]err", *outFile, err)
 		return
 	}
 	defer of.Close()
@@ -103,12 +135,12 @@ func transFile(inFp string, outFp string) {
 	enc := json.NewEncoder(of)
 	err = enc.Encode(grid)
 	if err != nil {
-		fmt.Println("[json]err", err)
+		Vln(2, "[json]err", err)
 	}
 }
 
-func getUrl(url string) ([]byte, error) {
-	resBody, err := getUrlFd(url)
+func getUrl(url string, dialFunc func(network, addr string) (net.Conn, error)) ([]byte, error) {
+	resBody, err := getUrlFd(url, dialFunc)
 	if err != nil {
 		return nil, err
 	}
@@ -121,16 +153,14 @@ func getUrl(url string) ([]byte, error) {
 	return data, nil
 }
 
-func getUrlFd(url string) (io.ReadCloser, error) {
+func getUrlFd(url string, dialFunc func(network, addr string) (net.Conn, error)) (io.ReadCloser, error) {
 	var netTransport = &http.Transport{
-		Dial: (&net.Dialer{
-			Timeout: 5 * time.Second,
-		}).Dial,
-		TLSHandshakeTimeout: 5 * time.Second,
+		Dial: dialFunc,
+		TLSHandshakeTimeout: time.Duration(*connTimeout) * time.Second,
 	}
 
 	var netClient = &http.Client{
-		Timeout: time.Second * 60,
+		Timeout: time.Second * 180,
 		Transport: netTransport,
 	}
 
@@ -247,12 +277,12 @@ func parseXML(r io.Reader) (*VectorGrid, error) {
 		switch t := token.(type) {
 		case xml.StartElement:
 			stelm := xml.StartElement(t)
-			//fmt.Println("start: ", stelm.Name.Local)
+			//Vln(5, "start: ", stelm.Name.Local)
 			xs.StartTag(stelm)
 
 		case xml.EndElement:
 			endelm := xml.EndElement(t)
-			//fmt.Println("end: ", endelm.Name.Local)
+			//Vln(5, "end: ", endelm.Name.Local)
 			xs.EndTag(endelm)
 
 		case xml.CharData:
@@ -260,7 +290,7 @@ func parseXML(r io.Reader) (*VectorGrid, error) {
 			ps.FillTag(xs, data, grid)
 
 			//str := string(data)
-			//fmt.Println("[val]", xs.GetPath(), str)
+			//Vln(5, "[val]", xs.GetPath(), str)
 		}
 	}
 
@@ -285,19 +315,19 @@ func (ps *procState) FillTag(xs *XmlState, data []byte, grid *VectorGrid) {
 		switch path {
 		case "cwbopendata/dataset/datasetInfo/datasetDescription":
 			str := string(data)
-			fmt.Println("[desc]", path, str)
+			Vln(3, "[desc]", path, str)
 			grid.Desc = str
 		case "cwbopendata/dataset/datasetInfo/parameterSet/parameter/parameterName":
-			fmt.Println("[n?]", path, string(data))
+			Vln(3, "[n?]", path, string(data))
 		case "cwbopendata/dataset/datasetInfo/parameterSet/parameter/parameterValue":
 			str := string(data)
-			fmt.Println("[ny]", path, str)
+			Vln(3, "[ny]", path, str)
 			if v, err := strconv.ParseUint(str, 10, 32); err == nil {
 				grid.Ny = int(v)
 			}
 		case "cwbopendata/dataset/time/datetime":
 			str := string(data)
-			fmt.Println("[time]", path, str)
+			Vln(3, "[time]", path, str)
 			grid.Time = str
 		case "cwbopendata/dataset/location":
 			ps.st = 1 // start parse grids
@@ -334,7 +364,7 @@ func (ps *procState) FillTag(xs *XmlState, data []byte, grid *VectorGrid) {
 			switch str {
 			case "橫向流速":
 				ps.valName = "X"
-				//fmt.Println("[pos]", ps.lat, ps.lon)
+				//Vln(7, "[pos]", ps.lat, ps.lon)
 			case "直向流速":
 				ps.valName = "Y"
 			case "海表溫度", "海高", "海表鹽度":
@@ -385,7 +415,7 @@ func (ps *procState) FillTag(xs *XmlState, data []byte, grid *VectorGrid) {
 				grid.Data[k] = transT(arr, grid.Ny)
 			}
 
-			fmt.Println("[grid]", ps.lat, ps.lon, len(grid.Data["X"]), len(grid.Data["Y"]), len(grid.Data["海表溫度"]), len(grid.Data["海高"]), len(grid.Data["海表鹽度"]))
+			Vln(3, "[grid]", ps.lat, ps.lon, len(grid.Data["X"]), len(grid.Data["Y"]), len(grid.Data["海表溫度"]), len(grid.Data["海高"]), len(grid.Data["海表鹽度"]))
 		}
 	}
 }
@@ -439,5 +469,73 @@ func (xs *XmlState) PathLevel() int {
 }
 
 
+// ==== proxy ====
+func makeConnection(targetAddr string, socksAddr string, timeout time.Duration) (net.Conn, error) {
 
+	host, portStr, err := net.SplitHostPort(targetAddr)
+	if err != nil {
+		Vln(2, "SplitHostPort err:", targetAddr, err)
+		return nil, err
+	}
+	port, err := strconv.Atoi(portStr)
+	if err != nil {
+		Vln(2, "failed to parse port number:", portStr, err)
+		return nil, err
+	}
+	if port < 1 || port > 0xffff {
+		Vln(2, "port number out of range:", portStr, err)
+		return nil, err
+	}
+
+	socksReq := []byte{0x05, 0x01, 0x00, 0x03}
+	socksReq = append(socksReq, byte(len(host)))
+	socksReq = append(socksReq, host...)
+	socksReq = append(socksReq, byte(port>>8), byte(port))
+
+
+	conn, err := net.DialTimeout("tcp", socksAddr, timeout)
+	if err != nil {
+		Vln(2, "connect to ", socksAddr, err)
+		return nil, err
+	}
+
+	var b [10]byte
+
+	// send request
+	conn.Write([]byte{0x05, 0x01, 0x00})
+
+	// read reply
+	_, err = conn.Read(b[:2])
+	if err != nil {
+		return nil, err
+	}
+
+	// send server addr
+	conn.Write(socksReq)
+
+	// read reply
+	n, err := conn.Read(b[:10])
+	if n < 10 {
+		Vln(2, "Dial err replay:", targetAddr, "via", socksAddr, n)
+		return nil, err
+	}
+	if err != nil || b[1] != 0x00 {
+		Vln(2, "Dial err:", targetAddr, "via", socksAddr, n, b[1], err)
+		return nil, err
+	}
+
+	return conn, nil
+}
+
+// ==== log ====
+func Vf(level int, format string, v ...interface{}) {
+	if level <= *verbosity {
+		log.Printf(format, v...)
+	}
+}
+func Vln(level int, v ...interface{}) {
+	if level <= *verbosity {
+		log.Println(v...)
+	}
+}
 

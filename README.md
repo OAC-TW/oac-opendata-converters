@@ -18,7 +18,7 @@
 	* 補充: 需要中央氣象局open data的API授權碼才可下載資料
 	* 自動抓取最新資料後, 同時透過Webhook更新線上站台的資料
 	* [ ] (TODO)第000~072小時參數化
-	* [ ] (TODO)可藉由socks5 proxy避開網路限制
+	* 可藉由socks5 proxy避開網路限制
 
 * `oceanwave-proc/`
 	* 用途: 中央氣象局 浪高(hs)、週期(t)、波向(dir) 爬蟲

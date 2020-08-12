@@ -40,7 +40,7 @@ var (
 	outFile = flag.String("o", "20072318.000.grid.json", "output file")
 
 
-	proxyAddr = flag.String("x", "127.0.0.1:5005", "socks5 proxy addr")
+	proxyAddr = flag.String("x", "", "socks5 proxy addr (127.0.0.1:5005)")
 	connTimeout = flag.Int("timeout", 10, "connect timeout in Seconds")
 
 	cpu = flag.Int("cpu", 0, "CPU count limit, 0 == auto")
