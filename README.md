@@ -35,6 +35,32 @@
 	* 可藉由socks5 proxy避開網路限制
 	* 自動抓取最新資料並移除過時資料
 	* 解壓縮/轉換時CPU核心可能會吃滿3核(可由指令參數調整)
+	
+* `OAC_opendata_Console/`
+	* 用途: 提供將下列 OpenData 轉換為 一站式平臺使用之資料格式
+		* ######  交通部運輸研究所 - 商港海象觀測資料
+            * 資料集描述: 商港海氣象資訊（風力、潮位、波浪、海流） 風力：觀測時間、平均風速、平均風向、緯度、經度 潮位：觀測時間、潮位、緯度、經度 波浪：觀測時間、波高、尖峰週期、波向、平均週期、緯度、經度 海流：觀測時間、流速、流向、緯度、經度
+            * 資料格式: XML
+            * 資料集網址
+                * 臺北商港：https://data.gov.tw/dataset/127836
+                * 基隆商港：https://data.gov.tw/dataset/127851
+                * 蘇澳商港：https://data.gov.tw/dataset/127855
+                * 臺中商港：https://data.gov.tw/dataset/127831
+                * 布袋商港：https://data.gov.tw/dataset/127840
+                * 安平商港：https://data.gov.tw/dataset/127846
+                * 高雄商港：https://data.gov.tw/dataset/127853
+                * 花蓮商港：https://data.gov.tw/dataset/127852
+                * 馬祖(南竿): https://data.gov.tw/dataset/127847
+
+    	* ######  中央氣象局  OCM 海流模式資料
+            * 資料集描述: 提供 OCM 預報模式的海流資訊 (海流、海表鹽度、海表溫度、海面高)。
+            * 開放資料來源網址 https://ocean.cwb.gov.tw/V2/data_interface/datasets
+    		* 資料格式: NetCDF
+            * OPeNDAP OCM 資料集網址: http://med.cwb.gov.tw/opendap/OCM/contents.html
+
+	* 框架語言: .NET Core 3.1 (C#)
+	* 轉檔輸出格式:  JSON
+	* [ ] (TODO)NWW3 波浪模式
 
 ## demo
 
