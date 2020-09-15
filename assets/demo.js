@@ -1,6 +1,8 @@
 // speed hack
-L.CRS.scale = L.CRS.EPSG3857.scale = L.CRS.EPSG3395.scale = L.CRS.EPSG4326.scale = L.CRS.EPSG900913.scale = L.CRS.Earth.scale = function(t) { return 1 << (t+8); };
-L.CRS.Simple = function(t) { return 1 << t; };
+//L.CRS.scale = L.CRS.EPSG3857.scale = L.CRS.EPSG3395.scale = L.CRS.EPSG4326.scale = L.CRS.EPSG900913.scale = L.CRS.Earth.scale = function(t) { return 1 << (t+8); };
+//L.CRS.Simple = function(t) { return 1 << t; };
+L.CRS.scale = L.CRS.EPSG3857.scale = L.CRS.EPSG3395.scale = L.CRS.EPSG4326.scale = L.CRS.EPSG900913.scale = L.CRS.Earth.scale = function(t) { return 256 * (2 ** t); };
+L.CRS.Simple = function(t) { return 2 ** t; };
 
 function getRequestParm(name) {
 	var re = location.search.match('[?&]'+encodeURIComponent(name)+'=([^&]*)');
