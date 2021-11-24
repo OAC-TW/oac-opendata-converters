@@ -1,0 +1,362 @@
+[
+  {
+    "ID": 1,
+    "ESCHERICHIA_COLI": "26",
+    "ENTEROCOCCUS": "小於10",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2019-07-23T00:00:00",
+    "STATION_NAME": "福隆海水浴場",
+    "LON": 121.94455,
+    "LAT": 25.0223
+  },
+  {
+    "ID": 2,
+    "ESCHERICHIA_COLI": "19",
+    "ENTEROCOCCUS": "小於10",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2019-07-23T00:00:00",
+    "STATION_NAME": "新金山海水浴場",
+    "LON": 121.64436,
+    "LAT": 25.23044
+  },
+  {
+    "ID": 3,
+    "ESCHERICHIA_COLI": "小於10",
+    "ENTEROCOCCUS": "小於10",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2019-07-23T00:00:00",
+    "STATION_NAME": "旗津海水浴場",
+    "LON": 120.26947,
+    "LAT": 22.6083
+  },
+  {
+    "ID": 4,
+    "ESCHERICHIA_COLI": "92",
+    "ENTEROCOCCUS": "小於10",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2019-07-23T00:00:00",
+    "STATION_NAME": "墾丁跳石(南灣濱海遊憩區)",
+    "LON": 120.76308,
+    "LAT": 21.95927
+  },
+  {
+    "ID": 5,
+    "ESCHERICHIA_COLI": "小於10",
+    "ENTEROCOCCUS": "小於10",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2019-07-23T00:00:00",
+    "STATION_NAME": "外澳海水浴場",
+    "LON": 121.84066,
+    "LAT": 24.8745
+  },
+  {
+    "ID": 6,
+    "ESCHERICHIA_COLI": "小於10",
+    "ENTEROCOCCUS": "小於10",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2019-07-23T00:00:00",
+    "STATION_NAME": "觀音亭海灘",
+    "LON": 119.56194,
+    "LAT": 23.56944
+  },
+  {
+    "ID": 7,
+    "ESCHERICHIA_COLI": "33",
+    "ENTEROCOCCUS": "小於10",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2019-08-27T00:00:00",
+    "STATION_NAME": "福隆海水浴場",
+    "LON": 121.94455,
+    "LAT": 25.0223
+  },
+  {
+    "ID": 8,
+    "ESCHERICHIA_COLI": "小於10",
+    "ENTEROCOCCUS": "小於10",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2019-08-27T00:00:00",
+    "STATION_NAME": "新金山海水浴場",
+    "LON": 121.64436,
+    "LAT": 25.23044
+  },
+  {
+    "ID": 9,
+    "ESCHERICHIA_COLI": "1062",
+    "ENTEROCOCCUS": "63",
+    "WATER_LEVEL": "不宜親水活動",
+    "SAMPLE_DATE": "2019-08-26T00:00:00",
+    "STATION_NAME": "旗津海水浴場",
+    "LON": 120.26947,
+    "LAT": 22.6083
+  },
+  {
+    "ID": 10,
+    "ESCHERICHIA_COLI": "1403",
+    "ENTEROCOCCUS": "243",
+    "WATER_LEVEL": "不宜親水活動",
+    "SAMPLE_DATE": "2019-08-26T00:00:00",
+    "STATION_NAME": "墾丁跳石(南灣濱海遊憩區)",
+    "LON": 120.76308,
+    "LAT": 21.95927
+  },
+  {
+    "ID": 11,
+    "ESCHERICHIA_COLI": "小於10",
+    "ENTEROCOCCUS": "小於10",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2019-08-27T00:00:00",
+    "STATION_NAME": "外澳海水浴場",
+    "LON": 121.84066,
+    "LAT": 24.8745
+  },
+  {
+    "ID": 12,
+    "ESCHERICHIA_COLI": "小於10",
+    "ENTEROCOCCUS": "小於10",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2019-08-06T00:00:00",
+    "STATION_NAME": "觀音亭海灘",
+    "LON": 119.56194,
+    "LAT": 23.56944
+  },
+  {
+    "ID": 13,
+    "ESCHERICHIA_COLI": "小於10",
+    "ENTEROCOCCUS": "18",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2020-06-18T00:00:00",
+    "STATION_NAME": "福隆海水浴場",
+    "LON": 121.94455,
+    "LAT": 25.0223
+  },
+  {
+    "ID": 14,
+    "ESCHERICHIA_COLI": "21",
+    "ENTEROCOCCUS": "12",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2020-06-18T00:00:00",
+    "STATION_NAME": "新金山海水浴場",
+    "LON": 121.64436,
+    "LAT": 25.23044
+  },
+  {
+    "ID": 15,
+    "ESCHERICHIA_COLI": "13",
+    "ENTEROCOCCUS": "小於10",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2020-06-23T00:00:00",
+    "STATION_NAME": "旗津海水浴場",
+    "LON": 120.26947,
+    "LAT": 22.6083
+  },
+  {
+    "ID": 16,
+    "ESCHERICHIA_COLI": "14",
+    "ENTEROCOCCUS": "小於10",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2020-06-23T00:00:00",
+    "STATION_NAME": "墾丁跳石(南灣濱海遊憩區)",
+    "LON": 120.76308,
+    "LAT": 21.95927
+  },
+  {
+    "ID": 17,
+    "ESCHERICHIA_COLI": "小於10",
+    "ENTEROCOCCUS": "小於10",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2020-06-18T00:00:00",
+    "STATION_NAME": "外澳海水浴場",
+    "LON": 121.84066,
+    "LAT": 24.8745
+  },
+  {
+    "ID": 18,
+    "ESCHERICHIA_COLI": "小於10",
+    "ENTEROCOCCUS": "小於10",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2020-06-24T00:00:00",
+    "STATION_NAME": "觀音亭海灘",
+    "LON": 119.56194,
+    "LAT": 23.56944
+  },
+  {
+    "ID": 19,
+    "ESCHERICHIA_COLI": "10",
+    "ENTEROCOCCUS": "小於10",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2020-07-21T00:00:00",
+    "STATION_NAME": "福隆海水浴場",
+    "LON": 121.94455,
+    "LAT": 25.0223
+  },
+  {
+    "ID": 20,
+    "ESCHERICHIA_COLI": "14",
+    "ENTEROCOCCUS": "小於10",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2020-07-21T00:00:00",
+    "STATION_NAME": "新金山海水浴場",
+    "LON": 121.64436,
+    "LAT": 25.23044
+  },
+  {
+    "ID": 21,
+    "ESCHERICHIA_COLI": "166",
+    "ENTEROCOCCUS": "10",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2020-07-21T00:00:00",
+    "STATION_NAME": "外澳海水浴場",
+    "LON": 121.84066,
+    "LAT": 24.8745
+  },
+  {
+    "ID": 22,
+    "ESCHERICHIA_COLI": "小於10",
+    "ENTEROCOCCUS": "小於10",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2020-07-23T00:00:00",
+    "STATION_NAME": "旗津海水浴場",
+    "LON": 120.26947,
+    "LAT": 22.6083
+  },
+  {
+    "ID": 23,
+    "ESCHERICHIA_COLI": "小於10",
+    "ENTEROCOCCUS": "小於10",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2020-07-24T00:00:00",
+    "STATION_NAME": "觀音亭海灘",
+    "LON": 119.56194,
+    "LAT": 23.56944
+  },
+  {
+    "ID": 24,
+    "ESCHERICHIA_COLI": "71",
+    "ENTEROCOCCUS": "小於10",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2020-07-23T00:00:00",
+    "STATION_NAME": "墾丁跳石(南灣濱海遊憩區)",
+    "LON": 120.76308,
+    "LAT": 21.95927
+  },
+  {
+    "ID": 25,
+    "ESCHERICHIA_COLI": "小於10",
+    "ENTEROCOCCUS": "小於10",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2021-06-11T00:00:00",
+    "STATION_NAME": "福隆海水浴場",
+    "LON": 121.94455,
+    "LAT": 25.0223
+  },
+  {
+    "ID": 26,
+    "ESCHERICHIA_COLI": "小於10",
+    "ENTEROCOCCUS": "小於10",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2021-06-11T00:00:00",
+    "STATION_NAME": "新金山海水浴場",
+    "LON": 121.64436,
+    "LAT": 25.23044
+  },
+  {
+    "ID": 27,
+    "ESCHERICHIA_COLI": "小於10",
+    "ENTEROCOCCUS": "小於10",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2021-06-10T00:00:00",
+    "STATION_NAME": "外澳海水浴場",
+    "LON": 121.84066,
+    "LAT": 24.8745
+  },
+  {
+    "ID": 28,
+    "ESCHERICHIA_COLI": "28",
+    "ENTEROCOCCUS": "10",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2021-06-18T00:00:00",
+    "STATION_NAME": "旗津海水浴場",
+    "LON": 120.26947,
+    "LAT": 22.6083
+  },
+  {
+    "ID": 29,
+    "ESCHERICHIA_COLI": "小於10",
+    "ENTEROCOCCUS": "小於10",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2021-06-16T00:00:00",
+    "STATION_NAME": "觀音亭海灘",
+    "LON": 119.56194,
+    "LAT": 23.56944
+  },
+  {
+    "ID": 30,
+    "ESCHERICHIA_COLI": "15",
+    "ENTEROCOCCUS": "小於10",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2021-06-18T00:00:00",
+    "STATION_NAME": "墾丁跳石(南灣濱海遊憩區)",
+    "LON": 120.76308,
+    "LAT": 21.95927
+  },
+  {
+    "ID": 31,
+    "ESCHERICHIA_COLI": "小於10",
+    "ENTEROCOCCUS": "小於10",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2021-07-14T00:00:00",
+    "STATION_NAME": "福隆海水浴場",
+    "LON": 121.94455,
+    "LAT": 25.0223
+  },
+  {
+    "ID": 32,
+    "ESCHERICHIA_COLI": "15",
+    "ENTEROCOCCUS": "小於10",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2021-07-16T00:00:00",
+    "STATION_NAME": "新金山海水浴場",
+    "LON": 121.64436,
+    "LAT": 25.23044
+  },
+  {
+    "ID": 33,
+    "ESCHERICHIA_COLI": "小於10",
+    "ENTEROCOCCUS": "小於10",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2021-07-14T00:00:00",
+    "STATION_NAME": "外澳海水浴場",
+    "LON": 121.84066,
+    "LAT": 24.8745
+  },
+  {
+    "ID": 34,
+    "ESCHERICHIA_COLI": "15",
+    "ENTEROCOCCUS": "小於10",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2021-07-13T00:00:00",
+    "STATION_NAME": "旗津海水浴場",
+    "LON": 120.26947,
+    "LAT": 22.6083
+  },
+  {
+    "ID": 35,
+    "ESCHERICHIA_COLI": "小於10",
+    "ENTEROCOCCUS": "17",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2021-07-12T00:00:00",
+    "STATION_NAME": "觀音亭海灘",
+    "LON": 119.56194,
+    "LAT": 23.56944
+  },
+  {
+    "ID": 36,
+    "ESCHERICHIA_COLI": "小於10",
+    "ENTEROCOCCUS": "小於10",
+    "WATER_LEVEL": "優良",
+    "SAMPLE_DATE": "2021-07-12T00:00:00",
+    "STATION_NAME": "墾丁跳石(南灣濱海遊憩區)",
+    "LON": 120.76308,
+    "LAT": 21.95927
+  }
+]

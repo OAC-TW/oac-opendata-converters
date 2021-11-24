@@ -1,0 +1,121 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.808028,
+					25.144056
+				]
+			},
+			"properties": {
+				"station": "O",
+				"stationName": "潮境",
+				"lat": 25.144056,
+				"lon": 121.808028,
+				"time": "2021-11-03T17:00:00+08:00",
+				"peakperiod": 7.4,
+				"hs": 156,
+				"avgperiod": 5.7,
+				"wavedir": 78,
+				"gust": 3.7,
+				"ws": 2.2,
+				"wd": 125,
+				"pressure": 1016.6,
+				"avgtemp": 22.3,
+				"wstemp": 23,
+				"flowrate": 19.8,
+				"flowdir": 46
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.907278,
+					25.124667
+				]
+			},
+			"properties": {
+				"station": "Y",
+				"stationName": "鼻頭角",
+				"lat": 25.124667,
+				"lon": 121.907278,
+				"time": "2021-11-03T17:00:00+08:00",
+				"peakperiod": 7.2,
+				"hs": 117,
+				"avgperiod": 5.9,
+				"wavedir": 22,
+				"gust": 5.9,
+				"ws": 3.4,
+				"wd": 90,
+				"pressure": 1016.6,
+				"avgtemp": 22.9,
+				"wstemp": 22.5,
+				"flowrate": 2,
+				"flowdir": 3
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.929139,
+					24.948833
+				]
+			},
+			"properties": {
+				"station": "B",
+				"stationName": "蜜月灣",
+				"lat": 24.948833,
+				"lon": 121.929139,
+				"time": "2021-11-03T17:00:00+08:00",
+				"peakperiod": 5.4,
+				"hs": 158,
+				"avgperiod": 5.3,
+				"wavedir": 112,
+				"gust": 7.1,
+				"ws": 5.4,
+				"wd": 85,
+				"pressure": 1016.5,
+				"avgtemp": 23.3,
+				"wstemp": 25,
+				"flowrate": 5,
+				"flowdir": 70
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.76,
+					21.945
+				]
+			},
+			"properties": {
+				"station": "R",
+				"stationName": "南灣",
+				"lat": 21.945,
+				"lon": 120.76,
+				"time": "2021-11-03T17:00:00+08:00",
+				"peakperiod": 6.9,
+				"hs": 31,
+				"avgperiod": 4.9,
+				"wavedir": 146,
+				"gust": 9,
+				"ws": 5.5,
+				"wd": 70,
+				"pressure": 1013.6,
+				"avgtemp": 25.6,
+				"wstemp": 26.4,
+				"flowrate": 10,
+				"flowdir": 148
+			}
+		}
+	]
+}

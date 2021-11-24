@@ -1,0 +1,177 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.84838888888888,
+					24.306444444444445
+				]
+			},
+			"properties": {
+				"time": "2021-06-29T00:00:00+08:00",
+				"lon": 121.84838888888888,
+				"lat": 24.306444444444445,
+				"Z": "0-5",
+				"h3": "--",
+				"h3unit": "貝克/升",
+				"category": "海水(氚)",
+				"locationid": "O-4",
+				"location": "和平溪海域",
+				"sampler": "海保署",
+				"memo": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					122.17,
+					25.310000000000002
+				]
+			},
+			"properties": {
+				"time": "2021-06-29T00:00:00+08:00",
+				"lon": 122.17,
+				"lat": 25.310000000000002,
+				"cs137": 0.22,
+				"cs137unit": "貝克/公斤-鮮重",
+				"category": "海產物",
+				"location": "機動檢測",
+				"sampler": "嘉義大學",
+				"memo": "真鰹"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					122.15,
+					25.3
+				]
+			},
+			"properties": {
+				"time": "2021-06-26T00:00:00+08:00",
+				"lon": 122.15,
+				"lat": 25.3,
+				"cs137": 0.13,
+				"cs137unit": "貝克/公斤-鮮重",
+				"category": "海產物",
+				"location": "機動檢測",
+				"sampler": "嘉義大學",
+				"memo": "花腹鯖"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					118.48241666666667,
+					24.435897222222223
+				]
+			},
+			"properties": {
+				"time": "2021-06-24T00:00:00+08:00",
+				"lon": 118.48241666666667,
+				"lat": 24.435897222222223,
+				"Z": "0-5",
+				"h3": "--",
+				"h3unit": "貝克/升",
+				"category": "海水(氚)",
+				"location": "金門外海A",
+				"sampler": "海保署",
+				"memo": "機動檢測"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					118.5006638888889,
+					24.41316388888889
+				]
+			},
+			"properties": {
+				"time": "2021-06-24T00:00:00+08:00",
+				"lon": 118.5006638888889,
+				"lat": 24.41316388888889,
+				"Z": "0-5",
+				"h3": "--",
+				"h3unit": "貝克/升",
+				"category": "海水(氚)",
+				"location": "金門外海B",
+				"sampler": "海保署",
+				"memo": "機動檢測"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.85,
+					24.733333333333334
+				]
+			},
+			"properties": {
+				"time": "2021-06-24T00:00:00+08:00",
+				"lon": 120.85,
+				"lat": 24.733333333333334,
+				"cs137": 0.15,
+				"cs137unit": "貝克/公斤-鮮重",
+				"category": "海產物",
+				"location": "機動檢測",
+				"sampler": "嘉義大學",
+				"memo": "費氏窄尾魟"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.89,
+					24.57
+				]
+			},
+			"properties": {
+				"time": "2021-06-24T00:00:00+08:00",
+				"lon": 121.89,
+				"lat": 24.57,
+				"cs137": 0.25,
+				"cs137unit": "貝克/公斤-鮮重",
+				"category": "海產物",
+				"location": "機動檢測",
+				"sampler": "嘉義大學",
+				"memo": "白帶魚"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					119.15,
+					24.240000000000002
+				]
+			},
+			"properties": {
+				"time": "2021-06-24T00:00:00+08:00",
+				"lon": 119.15,
+				"lat": 24.240000000000002,
+				"cs137": 0.32,
+				"cs137unit": "貝克/公斤-鮮重",
+				"category": "海產物",
+				"location": "機動檢測",
+				"sampler": "嘉義大學",
+				"memo": "紅甘"
+			}
+		}
+	]
+}

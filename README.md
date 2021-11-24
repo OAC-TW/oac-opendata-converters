@@ -58,9 +58,132 @@
     		* 資料格式: NetCDF
             * OPeNDAP OCM 資料集網址: http://med.cwb.gov.tw/opendap/OCM/contents.html
 
+    	* ######  中央氣象局  OPENDATA 資料
+            * 資料集描述: 颱風消息與警報-災害性天氣資訊-颱風警報CAP檔。
+            * 開放資料來源網址 https://opendata.cwb.gov.tw/dataset/warning/W-C0034-001
+            * 資料集描述: 颱風消息與警報-颱風消息KML壓縮檔。
+            * 開放資料來源網址 https://opendata.cwb.gov.tw/dataset/warning/W-C0034-002
+            * 資料集描述: 潮汐預報-(未來1個月潮汐預報，鄉鎮、大潮小潮、滿潮乾潮、時間、潮高)。
+            * 開放資料來源網址 https://opendata.cwb.gov.tw/dataset/forecast/F-A0021-001
+    		* 資料集描述: 臺灣各鄉鎮市區預報資料-鄉鎮天氣預報。
+            * 開放資料來源網址 https://opendata.cwb.gov.tw/dataset/forecast/F-D0047-095 
+            * 資料集描述: 臺灣鄰近及遠洋漁業海面天氣預報資料-海面天氣預報(中文版)。
+            * 開放資料來源網址 https://opendata.cwb.gov.tw/dataset/forecast/F-A0012-001
+
 	* 框架語言: .NET Core 3.1 (C#)
 	* 轉檔輸出格式:  JSON
 	* [ ] (TODO)NWW3 波浪模式
+
+* `radiation-proc/`
+	* 用途: 海域輻射 爬蟲
+	* 資料集:
+		* 名稱: 台灣海域輻射調查資料
+		* 編號: 136060
+		* 網址: https://data.gov.tw/dataset/136060
+		* 格式: csv
+		* 資料集描述: 取樣日期、經度、緯度、深度(M)、銫-137活度、銫-137單位、氚活度、氚單位、類別、地點編號、地點、取樣單位/人、備註
+	* 語言: golang
+	* 輸入格式: 已有的csv檔或直接取得最新的資料檔
+	* 輸出格式: geojson或json (依參數)
+	* 可藉由socks5 proxy避開網路限制
+	* TODO:
+		* [x] 只輸出最近N天內的資料
+		* [ ] 只輸出最新的N筆
+
+* `sandybeach-proc/`
+	* 用途: 海灘水質 爬蟲
+	* 資料集:
+		* 名稱: ????
+		* 編號: ????
+		* 網址: https://iocean.oca.gov.tw/OCA_OceanConservation/Service/GeneratorFromJosnSandyBeach.ashx?code=F36490AE812D4E4791C14975551DD2E9
+		* 格式: json
+		* 資料集描述: 
+	* 語言: golang
+	* 輸入格式: 已有的json檔或直接取得最新的資料檔
+	* 輸出格式: geojson或json (依參數)
+	* 可藉由socks5 proxy避開網路限制
+
+* `waterquality-proc/`
+	* 用途: 海域水質 爬蟲
+	* 資料集:
+		* 名稱: ????
+		* 編號: ????
+		* 網址: https://iocean.oca.gov.tw/OCA_OceanConservation/Service/GeneratorFromJosnWaterQuality.ashx?code=D0B4699202A04DAD8A3153E48B6F937E
+		* 格式: json
+		* 資料集描述: 
+	* 語言: golang
+	* 輸入格式: 已有的json檔或直接取得最新的資料檔
+	* 輸出格式: geojson或json (依參數)
+	* 可藉由socks5 proxy避開網路限制
+
+* `seasurfacestorm-proc/`
+	* 用途: 海面風波流 爬蟲
+	* 資料集:
+		* 名稱: ????
+		* 編號: ????
+		* 網址:
+			* https://goocean.namr.gov.tw/OAC/?sta=O&aw=1&key=OAC&ff=txt
+			* https://goocean.namr.gov.tw/OAC/?sta=B&aw=1&key=OAC&ff=txt
+			* https://goocean.namr.gov.tw/OAC/?sta=C&aw=1&key=OAC&ff=txt
+			* https://goocean.namr.gov.tw/OAC/?sta=R&aw=1&key=OAC&ff=txt
+			* https://goocean.namr.gov.tw/OAC/?sta=Y&aw=1&key=OAC&ff=txt
+		* 格式: txt
+		* 資料集描述: 
+	* 語言: golang
+	* 輸入格式: 直接取得最新的資料檔
+	* 輸出格式: geojson或json (依參數)
+	* 可藉由socks5 proxy避開網路限制
+	* 注意:
+		* **來源資料編碼為big5**
+		* 剛跨月可能沒有任何資料
+		* 因資料來源的特性, 會保存最後一筆資料
+
+* `sightseeingspot-proc/`
+	* 用途: 海洋遊憩景點 爬蟲
+	* 資料集:
+		* 基隆市政府: https://data.gov.tw/dataset/143682
+		* 苗栗縣政府: https://data.gov.tw/dataset/144515
+		* 金門縣政府:
+			* https://data.gov.tw/dataset/143630
+			* https://data.gov.tw/dataset/143629
+			* https://data.gov.tw/dataset/143628
+			* https://data.gov.tw/dataset/143627 
+			* https://data.gov.tw/dataset/143626
+		* 彰化縣政府: 
+		* 格式: xlsx (待改善), ods (待改善), csv (big5, 待改善), csv (utf8)
+	* 語言: golang
+	* 輸入格式: 多個csv
+	* 輸出格式: geojson或json (依參數)
+	* 可藉由socks5 proxy避開網路限制
+	* 注意:
+		* 目前資料來源的格式無法自動轉換, 須手動轉檔成csv後再使用
+
+* `prohibit-proc/`
+	* 用途: 禁止海域資料合併
+	* 資料集:
+		* 尚未上架open data
+		* 格式: geojson
+	* 語言: golang
+	* 輸入格式: 多個geojson
+	* 輸出格式: geojson
+	* 可藉由socks5 proxy避開網路限制
+
+* `shootingobstruct-proc/`
+	* 用途: 射擊/礙航資料轉換&合併
+	* 資料集:
+		* 格式: csv
+		* 射擊通報:
+			* **注意: 已上架之open data含大量格式錯誤, 暫無法直接使用**
+			* 國防部軍備局規格鑑測中心兵器試驗場實彈射擊公告: https://data.gov.tw/dataset/136905
+			* 空軍司令部射擊公告: https://data.gov.tw/dataset/138550
+			* 國防部海軍司令部-實彈射擊公告: https://data.gov.tw/dataset/136419
+			* 陸軍射擊公告: https://data.gov.tw/dataset/137325
+		* 礙航通報:
+			* 暫無上架open data
+	* 語言: golang
+	* 輸入格式: 多個csv
+	* 輸出格式: geojson
+	* 可藉由socks5 proxy避開網路限制
 
 ## demo
 

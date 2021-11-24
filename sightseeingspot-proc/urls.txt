@@ -1,0 +1,55 @@
+
+# 金門縣海域觀光亮點資訊開放計畫-烈嶼鄉及大膽島
+# https://data.gov.tw/dataset/143630
+https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/b20ed175-9a19-4ba6-9f4a-21351b909c64.csv
+
+# 金門縣海域觀光亮點資訊開放計畫-金寧鄉
+# https://data.gov.tw/dataset/143629
+https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/ccc85ab7-b950-4e73-b7b9-a793b6aa3c99.csv
+
+# 金門縣海域觀光亮點資訊開放計畫-金沙鎮
+# https://data.gov.tw/dataset/143628
+https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/f232c624-8d0d-4d2a-8279-32e5f73d4f30.csv
+
+# 金門縣海域觀光亮點資訊開放計畫-金湖鎮
+# https://data.gov.tw/dataset/143627
+https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/a68cd6c6-c886-47ec-87e1-76c22a06608e.csv
+
+# 金門縣海域觀光亮點資訊開放計畫-金城鎮
+# https://data.gov.tw/dataset/143626
+https://ws.kinmen.gov.tw/001/Upload/0/relfile/0/0/a3edc7f1-f3fb-4e10-8718-9b92d219ab26.csv
+
+# 基隆海域遊憩景點開放性資料
+# https://data.gov.tw/dataset/143682
+https://economy.klcg.gov.tw/DlFile.ashx?no=157074A
+
+# 苗栗縣海洋遊憩景點開放性資料
+# https://data.gov.tw/dataset/144515
+https://www.mlc.gov.tw/df_ufiles/049/%E4%B8%80%E7%AB%99%E5%BC%8F%E6%B5%B7%E6%B4%8B%E9%81%8A%E6%86%A9%E6%B4%BB%E5%8B%95%E6%99%AF%E9%BB%9E%E8%A8%AD%E6%96%BD.ods
+
+# 彰化縣海域遊憩景點資料
+# https://data.gov.tw/dataset/136742
+https://email.chcg.gov.tw/df/mr9wuq5c5uvuicvylcp4lk71pqinth
+
+# 桃園市海域遊憩景點開放性資料
+# https://data.gov.tw/dataset/145034
+https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=c303a57e-a1cc-4af1-9a24-2516878ac227&rid=794ba6f7-176c-44de-b2d1-751a5b039f16
+
+# 110年海域遊憩活動一站式服務資訊平台-花蓮縣海域亮點資訊開放計畫
+# https://data.gov.tw/dataset/145325
+https://ws.hl.gov.tw/001/Upload/518/relfile/22626/87754/66b60b7a-cc1d-4757-aa8b-4aab26dd83f2.csv
+
+# 高雄市政府  海域遊憩景點開放資料格式
+# https://data.gov.tw/dataset/145920
+https://data.kcg.gov.tw/dataset/2b4fe67f-af10-438d-acfe-e4d39e70e52d/resource/d6b6db5d-e10d-4196-a82a-1d26bc390e23/download/.csv
+
+
+# 宜蘭縣政府海域遊憩活動一站式資訊服務平台
+# https://data.gov.tw/dataset/145927
+https://opendataap2.e-land.gov.tw/resource/files/2021-10-26/eceba82bf8147178fa9ce36a9eb818bb.csv
+
+# 嘉義市政府 海洋遊憩景點設施
+# https://data.gov.tw/dataset/136372
+https://ws-tm.cyhg.gov.tw/001/Upload/1330/relfile/13620/204654/eb1b4a44-bcc8-4f3b-8146-16178f5df805.csv
+
+

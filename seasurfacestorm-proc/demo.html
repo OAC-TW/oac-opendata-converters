@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+	<meta charset="utf-8">
+	<title>seasurfacestorm Demo</title>
+	<meta name="viewport" content="width=device-width">
+</head>
+<body>
+
+<div id="map"></div>
+
+<!--vendor-->
+<link rel="stylesheet" href="../assets/leaflet.css" crossorigin=""/>
+<script src="../assets/jquery-3.4.1.min.js" crossorigin=""></script>
+<script src="../assets/leaflet.js" crossorigin=""></script>
+
+<!--demo-->
+<link rel="stylesheet" href="../assets/demo.css" />
+<script src="../assets/demo.js"></script>
+
+<!--code-->
+<script type="text/javascript">
+
+const DATA_URL = 'sample/output/seasurfacestorm.geojson';
+
+var geojsonMarkerOptions = {
+	radius: 1,
+	fillColor: "#ff7800",
+	color: "#000",
+	weight: 1,
+	opacity: 1,
+	fillOpacity: 0.8,
+};
+
+// 海面風波流
+$.ajax({
+	method: 'GET',
+	url: DATA_URL,
+	dataType: 'json',
+	cache: true,
+	success: function(data, textStatus, jqXHR){
+		var layer = L.geoJSON(data, {
+			//pointToLayer: function (feature, latlng) {
+			//	return L.circleMarker(latlng, geojsonMarkerOptions);
+			//},
+			onEachFeature: function (feature, layer) {
+				layer.bindPopup(JSON.stringify(feature.properties, null, 4));
+			}
+		});
+
+
+		console.log("[seasurfacestorm]", data, layer);
+		layer.addTo(map);
+		layerControl.addOverlay(layer, "海面風波流");
+	}
+});
+</script>
+
+</body>
+</html>

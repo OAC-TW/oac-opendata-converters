@@ -1,0 +1,2054 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.70935,
+					25.15868
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.70935,
+				"Py": 25.15868,
+				"CName": "大武崙砲台",
+				"EName": "Dawulun Fortification",
+				"CToldescribe": "大武崙砲台位於基隆西北方，居外木山漁港後的大武崙山上，也就是情人湖的上方。因其地勢險要，而成為守基隆港西側的重要據點，在道光二十年（西元1840年）的清英鴉片戰爭及光緒十年（西元1884年）的清法戰爭時，清政府均曾派兵駐防。但據其構造及設計特色來看，應為日治時期所改建之結果，為國定古蹟，位於大武崙山巔，地形居高臨下，地勢非常險要，其標高為231公尺，可向西對準情人湖，北俯大武崙澳，東望基隆港及東海。區域幽靜，林木翠綠，登上環道的短邊眺望四周，基隆嶼、外木山澳漁村、八斗子、北海岸一帶的秀麗風光盡收眼底，是一處觀景，談心的好地，也常為婚紗公司取景之選擇，增添它浪漫的風情。",
+				"EToldescribe": "Dawulun Fortification is a very important military base to be the safeguard of the west side of Keelung Harbor. During the Opium War in 1840 and the Sino-French War in 1884, the court of Ching Dynasty sent the military force to guard this place. However, looking at the current structure and feature, the fort was probably renovated during the Japanese colonial period. The provincial historic site was located on Dawulun Mountain. Located 231 meters above sea level, the fortification looks down to Lovers Lake to the west, Dawulun Bay to the north, Keelung and East Sea to the east. Walking up on a pebble footpath full of falling leaves, one will see the original structure of the fortification, chassis, mechanical belt and storage room. Walls were made from stones with arched windows. Since the platform is at the high point facing the ocean, there are lots of scenes to view over northeastern cape from the platform, such as Keelung Islet, Waimushan Seashore, and Badouzih. Dawulun Fortification is located above Lovers Lake. This fort had the important task of defending the west side of Keelung Harbor. It is now a national historic site and the fortification's original structure can still be seen.",
+				"CoastalActivities": "18",
+				"Amenities": "2,3,4,12,15",
+				"Tel": "886-2-24287664",
+				"CAdd": "204基隆市安樂區基金一路208巷19號",
+				"EAdd": "No. 19, Lane 208, Fund 1st Road, Anle District, Keelung City, 204",
+				"Opentime": "09:00–17:00",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/a26df8b9-90f4-4fd7-9a01-9f9aeaced5eb.jpg",
+				"Picdescribe1C": "大武崙砲台",
+				"Picdescribe1E": "Dawulun Fortification"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.75742,
+					25.13766
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.75742,
+				"Py": 25.13766,
+				"CName": "二沙灣砲台",
+				"EName": "Ershawan Fortification",
+				"CToldescribe": "二沙灣砲台又名海門天險，為國定古蹟，位於中正公園二沙灣山上，採用傳統的中式城門築法，依山而建，氣勢雄偉。\n原位於二沙灣海邊的砲臺，創建年代約在清道光年間（西元1840年），之後砲台被毀，現址為劉銘傳部隊於清法戰爭後（西元1885年）所建，深具歷史價值。二沙灣砲台屬高地砲台中的「抱山式砲台」，不同於一般砲台，砲台建在地勢較高的臨海山頭，營盤設計在背海面地勢較低之處，海上來犯敵艦的砲彈只會打到山崗向海的一面，或越過山頭落到谷底，很難擊中營區。其與位於外海口門的社寮、白米甕構成鐵三角防禦網，防守基隆內、外港。\n二沙灣砲台現存建築，如城門、營舍牆基、大階梯、砲座、子牆及儲彈藥庫，各有其特色；砲座、子牆均使用鐵水泥建造而成，另砲台區內並有仿製之古砲數門；又因居高臨下，視野寬廣，遊客可於砲座俯瞰港口，體會「海門天險」的氣勢，景觀絕佳。砲台全區步道林木密佈，其間有鳥類及昆蟲，可在參觀古蹟之餘另有一生動自然之美。",
+				"EToldescribe": "Ershawan Fort is also named \"Haimen Tiansian\" which means a very dangerous gate to the ocean and is located on the top of Ershawan Mountain near the east harbor of Keelung. Following the traditional construction method to build the city gate, the front door of the platform was built by stones along the mountain, which is very splendid. The strategic value of the fort explains why it was chosen to be a military base during the Qing dynasty. Visitors can view Keelung Harbor from the fort to feel its significance. Today, it is a national historic site. The walls of the main entrance to the fort are made of stones laid using the technique traditionally used to build city gates in China. Over the arched doorway are the characters Hai Men Tian Xian. The gate, barracks, steps, gun platforms, ammunition stores, and other structures still remain. The fort has great significance in national defense history.",
+				"CoastalActivities": "18",
+				"Amenities": "2,3,4,12,14",
+				"Tel": "886-4-22295848#116",
+				"CAdd": "202基隆市中正區壽山路",
+				"EAdd": "Shoushan Rd., Zhongzheng Dist., Keelung City , Taiwan (R.O.C.)",
+				"Opentime": "00:00-24:00",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/6ead48e5-9e65-4997-aadd-54309a81edd0.jpg",
+				"Picdescribe1C": "二沙灣砲台",
+				"Picdescribe1E": "Ershawan Fortification"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.74418,
+					25.15552
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.74418,
+				"Py": 25.15552,
+				"CName": "白米甕砲台",
+				"EName": "Baimiwong Fortification",
+				"CToldescribe": "白米甕砲台位於基隆市中山區，大約建於清朝光緒年間，而今日之所見為日治時期所改建過後的景象，設計觀念及設施配置方面是較先進的作法，而且用材及施工亦頗為精良，雖歷經多年滄桑，但格局仍然保持完整；白米甕砲台周圍當地人舊稱『荷蘭城』，由於荷蘭據台時期就築有堡壘之類的建築，故白米甕砲台也稱『荷蘭城砲台』；白米甕砲台位於基隆港西邊，坐落在海拔近70公尺的高地上，高地的兩旁有小山，形成天然的屏障，為港口西岸的第一道防禦防線，目前白米甕砲台被列為國家三級古蹟。",
+				"EToldescribe": "Baimiwong emplacement is located in the northwest of Keelung harbor, safeguarding the harbor with the gun emplacement on the east shore. It was an important military base since the Qing dynasty. The rectangle-shaped gun emplacement facing the sea is comprised of three sections: barbette, control center, and observation station. The control center is on the west of the barbette and the observation station is on the right. Both places are great choices for visitors to overlook Keelung Harbor. The scenery is refreshing and beautiful; hence, it has become a popular sightseeing and leisure place for local residents. Find a nice summer evening to enjoy the lights on boats in the harbor, the bright stars, and the breeze.",
+				"CoastalActivities": "18",
+				"Amenities": "2,3,4,12,15",
+				"Tel": "886-2-24293804",
+				"CAdd": " 203基隆市中山區光華路37巷132號203",
+				"EAdd": "No.132, Lane 37, Guanghua Road, Zhongshan District, Keelung City 203",
+				"Opentime": "00:00-24:00",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/a4ec4317-7863-4ce8-9433-0c377d511d69.jpg",
+				"Picdescribe1C": "白米甕砲台",
+				"Picdescribe1E": "Baimiwong Fortification"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.77182,
+					25.15826
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.77182,
+				"Py": 25.15826,
+				"CName": "社寮東砲台",
+				"EName": "East Sheliao Fortification ",
+				"CToldescribe": "社寮即今日所稱之和平島，原本為雞籠社原住民聚落，由於戰略位置極為重要，從十七世紀起，便為防守基隆港灣的重要軍事據點。\n社寮島於西元1626年始建砲台，現社寮西砲台的位置，很可能是西班牙人所建柯模堡的位置，後於西元1642年遭荷蘭人佔領，改名維多利亞堡。\n清領初期遭到毀棄，直到清法戰爭前劉銘傳才於此地建砲台，但砲台未完成就發生戰爭，劉銘傳於西元1886年再度興建社寮砲台。日本殖民台灣後，於西元1907年改建社寮砲台，西元1924年完成，分有東西砲台。\n社寮東砲台的配置方式採用抱山式的做法，利用山谷坳地將營舍配置其間，隱藏性高，而砲座位於山頭，從外海很難發現砲台的存在。由於未被發掘及重視，因此許多設施均遭破壞，目前僅存蓄水池、營舍校兵台、指揮所、機槍堡、觀測所、彈藥庫等。\n社寮東砲台是自清領末期，日治時期起，為基隆地區的軍事要塞，具高度的保存價值。",
+				"EToldescribe": "Hepingdao used to be called Sheliao Island. The island has one gun emplacement on the west side and one on the east. It was built in 1626, modified by Liou Ming-Chuan in 1886, and then by the Japanese. The western gun emplacement is located at the central high point of the island and is still a restricted military area. The eastern gun emplacement is located in a valley in the east of the island, facing Keelung Islet. From the emplacement, you are able to see Bitou Cape to the east and Yeliao Cape to the west. The structure of the gun emplacement is similar to Dawulun Fortification. From the gun emplacement, you can see a strange sight. In the far distance, you can see dark and light-colored seas mixing. This is the \"Hailan Line', created by the currents caused by undersea hills and troughs flowing in different directions.",
+				"CoastalActivities": "18",
+				"Amenities": "12",
+				"Tel": "886-2-24224170#395",
+				"CAdd": "202基隆市中正區和一路2巷底後方山頭",
+				"EAdd": "Ln. 2, He 1st Rd., Zhongzheng Dist., Keelung City 202008 , Taiwan (R.O.C.)",
+				"Opentime": "00:00-24:00",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/2a42f6f8-15fe-4ac8-a927-3f327a7f7f72.jpg",
+				"Picdescribe1C": "社寮東砲台",
+				"Picdescribe1E": "East Sheliao Fortification "
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.78191,
+					25.14369
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.78191,
+				"Py": 25.14369,
+				"CName": "槓子寮砲台",
+				"EName": "Gangizihliao  Fortification",
+				"CToldescribe": "槓子寮砲台位於基隆東北方，處於信義區與中正區交界的山上，與二沙灣砲台、大武崙砲台同屬國定古蹟，槓子寮砲台「槓子」係取自於凱達格蘭族語「陷阱」的意思，寮是漢人加上去的，意思是人們群居處。\n遺址保存尚稱良好，有崗哨、交誼廳、營舍、指揮所、碉堡、彈藥庫、礮盤區等，範圍相當遼闊。砲台有360度的砲軌，可以自由選擇發射的角度，此乃五大礮台區中僅見，相當特殊。此外觀測台與礮盤區間有「通話孔」，亦為其特色之一。\n槓子寮砲台在清領時期已經存在，與白米甕砲台互為犄角，捍衛外港之安全，日治時期曾經整修過防禦工事，後來廢置多年，直到十幾年前才釋放給地方政府管理。\n槓子寮砲台依峙槓子寮山地形而築，倚山面海，地勢險要，主要扼守八斗子與基隆港北方海域及瑞芳方向之陸路。\n砲台可遠眺基隆嶼、和平島、八斗子、鼻頭角等北部海岸及九份、金瓜石等地，風景相當怡人，天氣好的時候，甚至可看到台北101大樓。",
+				"EToldescribe": "Gongziliao Fortification is built in the Ching Dynasty, and it was located at the northeast of Keelung city. This old gun emplacement is as significant as the other gun emplacements considering its history or its architecture. In fact, after World War II, it was still being used as a military facility by the ROC government until a few years ago. This gun emplacement in Sinyi District was ranked to be the provincial historic site. During the colonial period, the gun emplacement was renovated and the garrison was placed here after Taiwan was returned to China. Then it was abandoned for a long time. Fortunately, the remains of the gun emplacement are well-kept. Walking up to the hill on the gun emplacement, one will see the scenes of the Heping Island, Badouzih, and Keelung Islet right in front of the hill. Walking straight ahead, you will see a complete gun emplacement for you to imagine all the wars occurred here.",
+				"CoastalActivities": "18",
+				"Amenities": "2,12",
+				"Tel": "886-2-24282101",
+				"CAdd": "201基隆市信義區教忠街141巷",
+				"EAdd": "Ln. 141, Jiaozhong St., Xinyi Dist., Keelung City 201010 , Taiwan (R.O.C.)",
+				"Opentime": "00:00-24:00",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/4c1f841e-af41-40de-8224-1490ee358e8c.jpg",
+				"Picdescribe1C": "槓子寮砲台",
+				"Picdescribe1E": "Gangizihliao  Fortification"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.74789,
+					25.15552
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.74789,
+				"Py": 25.15552,
+				"CName": "基隆燈塔",
+				"EName": "Keelung Lighthouse",
+				"CToldescribe": "西元1900年建造的基隆燈塔，位於基隆港西岸碼頭萬人堆鼻。原為磚砌圓塔，民國51年（西元1962年）改建為鋼筋混凝土圓塔。萬人堆鼻原是一岩石林立的海埔地，因周邊奇岩怪石林立，如眾多鼻頭堆疊羅列，因而得名，不過現今已改建為三十號碼頭。基隆燈塔早年還設有紅色光弧，以標示港外的險礁，頗為特殊，後因險礁遭炸除，紅色光弧也遭撤除。 基隆燈塔左邊的階梯跟圍牆內部沒有開放，只有開放右邊的步道通往觀海平台。",
+				"EToldescribe": "Keelung Lighthouse was built in 1900,  is located in the northwest of Keelung harbor.Keelung Lighthouse is next to Keelung Port.The stairs and walls on the left of the Keelung Lighthouse are not open. The trail on the right leads to the observation Deck",
+				"CoastalActivities": "18",
+				"Amenities": "12,15",
+				"Tel": "886-2-89782900",
+				"CAdd": "203基隆市中山區光華路51號",
+				"EAdd": "No. 51, Guanghua Road, Zhongshan District, Keelung City, 203",
+				"Opentime": "不開放",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/684ce8d9-efb4-44d3-94d6-d236f0b5f1fe.jpg",
+				"Picdescribe1C": "基隆燈塔",
+				"Picdescribe1E": "Keelung Lighthouse"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.74386,
+					25.14651
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.74386,
+				"Py": 25.14651,
+				"CName": "球子山燈塔",
+				"EName": "Mt.Ciouzi Lighthouse",
+				"CToldescribe": "民國45年設立的球子山燈塔，位於基隆港西岸碼頭的球子山頂，塔身原為白色四方形混凝土燈塔，後因地理位置險要扼守基隆港口成為軍方駐地，塔身改漆迷彩綠，現已暫停發光。目前因基隆市政府看中球子山燈塔觀光潛力，在前往燈塔的路途上修建便道，航港局也將其塔身重新漆回原來的白色。球子山燈塔是第一座由國人自行設計、施工的燈塔，當初興建是因希望與位在西岸港口的基隆燈塔排成一直線，以引導船隻安全入港。民國80年後，因基隆港附近的新瀨險礁已爆破清除，使得球子山燈塔的功能被附近燈塔及燈杆取代，因而暫停發光。",
+				"EToldescribe": "The Mt.Ciouzi Lighthouse, which was built in 1949, it is the first lighthouse designed by Tiwaness.The colar of Mt.Ciouzi Lighthouse was olive green before. Now it is  white .",
+				"CoastalActivities": "18",
+				"Amenities": "12,15",
+				"Tel": "886-2-89782900",
+				"CAdd": "203基隆市中山區中山三路103巷203號122-134號 ",
+				"EAdd": "203 No. 122-134, No. 203, Lane 103, Zhongshan 3rd Road, Zhongshan District, Keelung City",
+				"Opentime": "00:00-24:00",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/9e68a1d4-335b-4642-840a-957cc315d9e1.jpg",
+				"Picdescribe1C": "球子山燈塔",
+				"Picdescribe1E": "Mt.Ciouzi Lighthouse"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.70819,
+					25.17104
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.70819,
+				"Py": 25.17104,
+				"CName": "湖海灣",
+				"EName": "Lake Bay",
+				"CToldescribe": "從外木山漁港至大武崙澳底漁村之間，長約4公里的湖海路，是基隆市轄區僅存最長的天然海岸。沿線並有多家的海產餐廳、咖啡館及行動遊客服務站，是一個適合闔家大小及青年朋友、情侶等前來遊玩的好去處。湖海灣海岸礁岩長年經海水沖蝕，雕塑出奇特的造型，遊客在此除可飽覽海天一色風光外，沿著自行車步道行走，還可遠眺基隆嶼，看大船入港，是休閒、健行的好去處。為服務遊客設置的遊客服務站，讓遊客一邊品啜咖啡茶飲，一邊聆聽濤聲，於傍晚時欣賞彩霞萬丈之景，更可欣賞海面上漁火點點，是值得深入觀賞體會的地點。",
+				"EToldescribe": "There are many seafood restaurants and cafes  along the line, which is a good place for families, young people and couples  to come .Visitors can enjoy the scenery of the sea and the sky, walk along the bicycle trails, overlook Keelung Island, and watch the big ships enter the port.",
+				"CoastalActivities": "18",
+				"Amenities": "2,3,4,5,12,15",
+				"Tel": "886-2-24287664",
+				"CAdd": "204基隆市安樂區湖海灣二段198號",
+				"EAdd": "204 No.198, Section 2, Lake Bay, Anle District, Keelung City",
+				"Opentime": "00:00-24:00",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/a122e576-ef5c-4196-a59f-0ea2f981f47a.jpg",
+				"Picdescribe1C": "湖海灣",
+				"Picdescribe1E": "Lake Bay"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.74884,
+					25.14535
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.74884,
+				"Py": 25.14535,
+				"CName": "仙洞巖",
+				"EName": "Fairy Cave",
+				"CToldescribe": "位於基隆西北端的仙洞巖是一處特殊景觀的海蝕洞，相傳有仙人在此修行後得道昇天，因此稱為仙洞，洞前石梯旁佇立著一尊金色佛像供人膜拜。仙洞分為主洞、左洞與右洞，三處都屬天然的海蝕洞，曲折蜿蜒的主洞壁上有許多雕刻的佛像和黑墨字跡，增添了幾分神秘與莊嚴的氣氛。左洞狹窄較為難行，需時側時蹲才能通行，但在經過約80公尺後視野突然變得遼闊，有一處小廣場供人膜拜神明。右洞則不易深入，可在洞口焚香膜拜。仙洞旁有石梯可到達聖安宮與仙洞公園，過程中有多處石椅可供休息，仙洞公園有一座觀景台，在這裡可以眺望基隆港的貨櫃與輪船運作。",
+				"EToldescribe": "Fairy Cave is situated in the mountain to the northwest of Keelung Harbor. Originally, it was an eroded hole. The cave was formed by ocean's abrasion after hundreds of years. The over 80-meter marine cave is the biggest one in Keelung. This cave can be divided into two parts: the right cave and the left cave. The latter is wide and the former is deep. According to the literature written during the Japanese colonial period, one could stand in the cave to listen to the amazing echo of the wave. There are carvings of Buddha on the wall and much calligraphy carving from the Qing Dynasty. Besides, at the cave mouth stands a gigantic sculpture of Buddha for people to worship.",
+				"CoastalActivities": "18",
+				"Amenities": "2,3,4,12,15",
+				"Tel": "886-2-24228359",
+				"CAdd": "20343基隆市中山區仁安街1號",
+				"EAdd": "No. 1, Ren'an Street, Zhongshan District, Keelung City, 20343",
+				"Opentime": "08:00～17:00",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/8ab5a5d2-4506-4f9b-8746-68fa70ef1229.jpg",
+				"Picdescribe1C": "仙洞巖",
+				"Picdescribe1E": "Fairy Cave"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.78529,
+					25.19197
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.78529,
+				"Py": 25.19197,
+				"CName": "基隆嶼",
+				"EName": "Keelung Islet",
+				"CToldescribe": "基隆嶼又稱基隆杙，為日治時期基隆八景之一，稱為「杙峰聳翠」，距離基隆只有5公里，與棉花嶼，彭佳嶼，及花瓶嶼並為基隆外海四個火山島嶼。從基隆，鄰近的北海岸，東北角海岸線上都可以看到她的面貌；這個長960公尺，寬400公尺，最高處約有海拔182公尺的小島，尖突的島嶼造型，是基隆外海最顯的地標。基隆嶼是一海底火山噴發形成的小島，本身就是一塊岩漿遇海水凝固而成的“火成岩”，在海浪及海風不斷的沖刷之下形成了特別的斷崖海岸景觀，島嶼的四周皆為峭壁，幾無平地，並有許多的海蝕洞穴與岩礁，也因此有火山地質公園的美稱。",
+				"EToldescribe": "Keelung Islet stands on the northeast of Keelung. It is the most prominent island landmark in northern Taiwan and is the guidepost for ships shuttling in and out of Keelung Harbor. The graceful parabolic contour of the island makes it one of the eight scenic spots of Keelung. Keelung Islet is a beautiful volcanic island surrounded by cliffs, and there is almost no plain on it. Walks and pavilions are the main recreational facilities on the island. Along the wooden walks, various plants indigenous to Taiwan will unfold before the eyes of visitors, displaying the beauty of nature. For instance, Formosa lily blossoms will cover the entire island in Spring. The island presents multiple beauties in accordance with climatic changes. The entire volcanic island is visible to the eyes during cloudless weather but displays a glimmering look at dusk. Visitors of Keelung Islet can take a scenic boat tour from Bisha Fishing Harbor in Summer, which will enable them to watch the spectacular landscape of the island along the cruise.",
+				"CoastalActivities": "18",
+				"Amenities": "2,3,4,5,7,8,12",
+				"Tel": "8862-2420-1122#2904～2909",
+				"CAdd": "202基隆市中正區基隆嶼",
+				"EAdd": "202 Keelung Island, Zhongzheng District, Keelung City",
+				"Opentime": "夏令時間0600-1700 冬令時間0700-1600",
+				"OpenremarkC": "冬季不開放(視政府公告)",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/133aab89-6f6d-4588-a3f6-6388b9c10e8b.jpg",
+				"Picdescribe1C": "基隆嶼",
+				"Picdescribe1E": "Keelung Islet"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.7377,
+					25.13533
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.7377,
+				"Py": 25.13533,
+				"CName": "虎仔山基隆地標",
+				"EName": "Huzi Mountain KEELUNG Landmark ",
+				"CToldescribe": "來到基隆，經常會被山頭上大大的「KEELUNG」造型的英文字母所吸引，那就是虎仔山所在的位置，而這個設計也讓虎仔山成為基隆的新興地標，這是在民國95年時由基隆市政府規劃興建的，經一再的修改及多方的努力之下，完成了此看版，儼然成為基隆市特有的休閒景觀，模仿好萊塢的設計，相當有創意，也讓許多基隆市民對這個設計引以為傲，外地遊客也備感新奇，開車沿著中山二路加油站旁的小路上行，經過垂直而上的車塔隧道後，即可抵虎仔山。",
+				"EToldescribe": "Huzi Mountain Trail is green and lush. On a hillside to the northwest of Keelung Railway Station, this trail offers beautiful scenery and a bird's-eye view of Keelung Harbor. When the weather is fine, the Keelung Islet can also be seen. You can walk up to where you can admire almost one thousand 1000-arm Guanyin statues and also Buddha statues from the Japanese Colonial Period. There is a big white “KEELUNG” sign in English on top of the hill that is the city's main landmark.",
+				"CoastalActivities": "18",
+				"Amenities": "2,3,412,15",
+				"Tel": "886-2-24287664",
+				"CAdd": "203基隆市中山區中山一路241巷45號",
+				"EAdd": "No. 45, Lane 241, Zhongshan 1st Road, Zhongshan District, Keelung City, 203",
+				"Opentime": "00:00-24:00",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/f00e90d2-44bb-44ca-aacd-8dbc70ded1fd.jpg",
+				"Picdescribe1C": "虎仔山基隆地標",
+				"Picdescribe1E": "Huzi Mountain KEELUNG Landmark "
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.72708,
+					25.16344
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.72708,
+				"Py": 25.16344,
+				"CName": "外木山海濱風景區",
+				"EName": "Waimushan Seashore",
+				"CToldescribe": "外木山濱海風景區橫跨萬里和基隆，從新北市與基隆市的交界處「獅子公園」出發，這裡有停車場停車方便，沿著步道走，風景非常優美，且可推推車，很適合親子或白髮族。一側為開闊的海岸景觀，另一側則是翠綠山脈，往左望野柳地質景觀，往右可遠眺基隆嶼，步道有規劃完善的自行車步道，且是基隆市第一條觀光自行車步道，全長只有1.2公里的封閉型自行車觀光步道，在此步道內遊客可以安心悠閒的散步、慢跑或騎自行車，享受著迎風吹來陣陣的海風，欣賞遼闊大海，釋放平日的壓力。",
+				"EToldescribe": "Waimushan seashore is the longest natural seashore remained in Keelung City with a total of 5 kilometers from Waimushan fishing port to Aoditong Village. The seashore includes an open seashore and marine cliff to make spectacular scenery. Swimming facilities are available near Waimushan fishing port for experienced swimmers to go snorkeling and swimming. The beach near Aoditong Village is the only remaining sandy seashore in Keelung. In the summer, people often go to the beach to swim and have fun. For people who are afraid to swim in the sea, can enjoy other facilities. Besides, one should never miss the beautiful sunrise in the summer. The incredible sight makes people feel carefree and joyous. The seashore and the reef rocks sculptured by the ocean over a long period of time are also a must-see.",
+				"CoastalActivities": "18",
+				"Amenities": "2,3,4,5,12,15",
+				"Tel": "886-2-24287664",
+				"CAdd": "203基隆市中山區協和街215號",
+				"EAdd": "No. 215, Xiehe Street, Zhongshan District, Keelung City, 203",
+				"Opentime": "00:00-24:00",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/34f56f71-5948-4b28-9b82-a859ccf4034c.jpg",
+				"Picdescribe1C": "外木山海濱風景區",
+				"Picdescribe1E": "Waimushan Seashore"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.70679,
+					25.16563
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.70679,
+				"Py": 25.16563,
+				"CName": "大武情人海灘",
+				"EName": "Dawulun Aodi Beach",
+				"CToldescribe": "大武崙白沙就位於基隆港西側,為漁港起至澳仔漁村間約5里長的海岸線,是基隆市轄區最長的天然沙岸。而大武崙白沙灘原本遍地礁岩石,沙灘地不多,但經基\n隆市府除礁岩整地後,購買2、300萬元大陸沙填入築造300多尺的沙地,使白沙灘成了小型人工的海水浴,呈彎型的白,成為民眾日戲水的好去處,更可於海畔一覽日出日落的美景,或靜坐聆聽海浪,更一窺與城市生活截然不同漁村風情。由於大武崙白沙灘在灣澳內,另一側則是鬼斧神工般的單面山懸崖,位置得天獨厚風浪不大,安全性也高,每年夏天不但是基隆市民水的好地方,更吸引外地遊客湧入。",
+				"EToldescribe": "The only bathing beach in Keelung with precious white sand.It is a good place to watch the sunrise.It is face the sea with the hills for a background. The location is not windy and the safety is high. Every summer, it is not only a good place for Keelung citizens, but also attracts tourists from other counties and cities.",
+				"CoastalActivities": "18,26",
+				"Amenities": "2,3,4,5,12,15",
+				"Tel": "886-2-24232181",
+				"CAdd": "204基隆市安樂區湖海路二段",
+				"EAdd": "Section 2, Huhai Road, Anle District, Keelung City, 204",
+				"Opentime": "00:00-24:00",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/80d7cacb-f271-463c-9615-e5e3068dd9c9.jpg",
+				"Picdescribe1C": "大武情人海灘",
+				"Picdescribe1E": "Dawulun Aodi Beach"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.70619,
+					25.15659
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.70619,
+				"Py": 25.15659,
+				"CName": "情人湖公園",
+				"EName": "Lovers Lake Park",
+				"CToldescribe": "情人湖公園位於基隆市西郊外寮里的大武崙山山腰上，由六條小溪匯集流入而成，為基隆僅有的高地湖泊，湖面雖然沒有很寬闊，但景色精緻秀麗，頗有小家碧玉之美，附近林木茂密，湖水碧綠，山光水色，清新怡人，空氣清新，春夏時節到處蟲鳴鳥叫，彩蝶飛舞，候鳥遷徒，值得民眾共赴自然之約。湖區裡規劃有觀景亭、情人吊橋、觀景水岸平台、風車、環山和環湖步道等設施，步道兩旁林木蓊鬱，而各種植物則展現四季風貌，在享受芬多精森林浴的同時，沿途並可欣賞湖光山色，相當詩情畫意。",
+				"EToldescribe": "Lovers Lake is located on the mountainside of Dawulun Mountain at the western part of Keelung. It was the only highland lake in Keelung with dense wood, beautiful lake and refreshing scenery. In spring and summer of every year, insects, butterflies and migrating birds often gather here. The park offers different facilities including kiosks, hanging bridge, lookout, windmills and pathways for visitors to take a walking and enjoy the natural scenery, the beauty of plants and the forest therapy. Besides, it is said that if couples walk across Lovers Bridge hand in hand, they are destined to marry. It is also a great choice to stand on the lookout to see the seashore.",
+				"CoastalActivities": "18",
+				"Amenities": "2,3,4,5,8,10,12,15",
+				"Tel": "886-2-24622981",
+				"CAdd": "204基隆市安樂區基金一路208巷",
+				"EAdd": "Lane 208, Fund 1st Road, Anle District, Keelung City",
+				"Opentime": "00:00-24:00",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/abeb37be-dd69-4248-94bc-c57cb67b097f.jpg",
+				"Picdescribe1C": "情人湖公園",
+				"Picdescribe1E": "Lovers Lake Park"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.75064,
+					25.13329
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.75064,
+				"Py": 25.13329,
+				"CName": "基隆中正公園",
+				"EName": "Jhongjheng Park",
+				"CToldescribe": "基隆中正公園在基隆港東側山丘上，依山建築，草木扶疏，是市民平日休閒的最佳去處。中正公園的正門位於信二路上，可拾階而上，或由側邊的斜坡步行而上。\n公園本身共分成三層，第一層有涼亭、棋藝中心以及運動休閒設施，假日常吸引大批人潮來此遊玩。第二層則為「主普壇」的所在地。每年基隆中元普渡的祭典就是在這裡舉行的，屆時人山人海，場面十分壯觀。\n公園的最高點，有一座白色的觀音大佛像，22.5公尺高的觀音塑像內分五層，可登上鳥瞰基隆全景，是基隆市最具代表性的地標。在佛像的兩側，有兩頭巨大的金獅坐鎮，十分祥和莊嚴。而在佛像周圍也立了十八座羅漢的雕像，每尊表情、動作都不一樣，十分生動，相當有趣。\n中正公園的廣場前可以俯瞰整個港口以及市街景象，視野非常的開闊，尤其黃昏之後，由這裡觀看基隆夜景，別具特色。",
+				"EToldescribe": "Zhongzheng Park is situated on the side of Dashawan Mountain, which is in the east of Keelung City. There is a white statue of Goddess of Mercy in the park. This 25-meter high statue has become one of the characteristics of Keelung. The park overlooks Keelung City and the harbor. There are three levels in the park. On the first level is a historic cannon fort. On the second level is a Buddhist library, Martyrs' Shrine, and Zhuputan Temple. The temple attracts many worshipers on July 15. On the third level is Guanhai Pavilion. Sitting in the pavilion, visitors can see the entire Keelung and the ocean. The statue of Goddess of Mercy is the landmark of Zhongzheng Park. It is the biggest Goddess statue in Southeast Asia. Inside the statue is a stairway leading to the top. Zhuputan is where worshipers gather on Zhongyuan Festival. The first immigrants to Taiwan used to fight with each other for land. In order to stop the disputes, they set up a temple for yearly worship. The temple was in Gaosha Park during the Japanese occupation and moved to Zhongzheng Park. The Big Buddha Monastery of Guanyin in the park has become a landmark for ships coming back to the port. Maitreya Buddha with a laugh all the time welcomes every tourist's visit. The towering and magnificent Chupu Altar is the official place of ghost festival in Keelung Harbor. From the pavilion, you can look over the Keelung Harbor district in which ships come back and forth. It is also a good place to view the seascape at dusk.",
+				"CoastalActivities": "18",
+				"Amenities": "2,3,4,8,12,14,15",
+				"Tel": "886-2-24287664",
+				"CAdd": "202基隆市中正區壽山路",
+				"EAdd": "Shoushan Rd., Zhongzheng Dist., Keelung City , Taiwan (R.O.C.)",
+				"Opentime": "00:00-24:00",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/33d98f46-5908-4dec-84a0-b785084dbfa8.jpg",
+				"Picdescribe1C": "基隆中正公園",
+				"Picdescribe1E": "Jhongjheng Park"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.76955,
+					25.15403
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.76955,
+				"Py": 25.15403,
+				"CName": "阿根那造船廠遺址",
+				"EName": "Agenna Shipyard",
+				"CToldescribe": "日治時期興建的「阿根納造船廠」，為各鐵路支線的終點站，負責將金瓜石的金礦及其他礦物匯集後再運送到日本，當日治時期結束後租借給以建造遊艇為主的美國公司「阿根納造船」。雖然現在已經荒廢，但此地仍以此為名，因裸露的鋼筋水泥很有現代頹廢風格，成為民眾拍照留念的著名景點，連拍攝著名電影“美國隊長”好萊塢明星克里斯·伊凡（Chris Evans）都曾來此拍攝廣告取景。而目前內部禁止參觀，僅供外圍觀賞。",
+				"EToldescribe": "The \"Agenna Shipyard\" built during the Japanese period, as the terminus of the railway branches, is responsible for the collection of gold and other minerals of the Jingua stone and then transported to Japan, after the end of the day on loan to the United States company \"Agenna Shipbuilding\", which is mainly used to build yachts. Although it is now deserted, but this place is still in its name, because the exposed reinforced cement is very modern decadent style, become the public to take pictures of the famous attractions。Even Hollywood star Chris Evans, who shot the famous movie \"Captain America,\" has been here to shoot commercials. At present, the internal tour is not allowed, only for peripheral viewing.",
+				"CoastalActivities": "18",
+				"Amenities": "2,3,4,12,15",
+				"Tel": "886-2-24224170#395",
+				"CAdd": "基隆市中正區正濱路116巷75號",
+				"EAdd": "No. 75, Ln. 116, Xin 2nd Rd., Zhongzheng Dist., Keelung City",
+				"Opentime": "00:00-24:00",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/2e694b6d-cb72-4eb7-bff6-1df81a957616.jpg",
+				"Picdescribe1C": "阿根那造船廠遺址",
+				"Picdescribe1E": "Agenna Shipyard"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.7694,
+					25.15258
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.7694,
+				"Py": 25.15258,
+				"CName": "正濱港口彩色屋",
+				"EName": "Zhengbin Fishing Harbor",
+				"CToldescribe": "正濱漁港位於和平島南方，是歷史悠久的老漁港，早在西元1934年年由日本人創建，日據時期為台灣第一大港，曾為繁榮極盛的漁貨商港，是早期帶動基隆漁港興盛的主要功臣，台灣北部重要的遠洋漁業基地，而在漁船噸位逐漸加大之後，漁港水位不堪負荷。現在雖較為沒落，但仍保有樸實風貌，基隆市政府積極開發成為以假日休閒懷舊為主的觀光碼頭，期待榮景將再現於此。",
+				"EToldescribe": "Zhengbin fishing port is located in the south of Peace Island, is a long-standing old fishing port, as early as 1934 by the Japanese founded, the Japanese period as Taiwan's largest port, once a prosperous fishing port, is the early driving of keelung fishing port prosperity of the main players, the northern taiwan important ocean fishing base, and after the fishing vessel tonnage gradually increased, the fishing port water level is unbearable.Although it is relatively down, but still retain a simple style, Keelung City Government actively developed into a holiday leisure nostalgia-based sightseeing pier, looking forward to the glory will be reproduced here.",
+				"CoastalActivities": "18,17",
+				"Amenities": "2,3,4,12,15",
+				"Tel": "886-2-2423-8660",
+				"CAdd": "基隆市中正區正濱路42號",
+				"EAdd": "No. 72, Zhengbin Rd., Zhongzheng Dist., Keelung City",
+				"Opentime": "00:00-24:00",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/eb5c6d83-e5c9-4490-b7b4-9ddfd050e6b5.jpg",
+				"Picdescribe1C": "正濱港口彩色屋",
+				"Picdescribe1E": "Zhengbin Fishing Harbor"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.75765,
+					25.14076
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.75765,
+				"Py": 25.14076,
+				"CName": "清法戰爭紀念園區",
+				"EName": "The Sino-French War Relic",
+				"CToldescribe": "清法戰爭紀念園區創立於清光緒11年(1885)，是為了紀念清法戰爭時犧牲的法國軍人所建。此公墓為基隆唯一直接與此戰爭最具關聯之建築物，也為全台數一數二清末以來埋葬西洋人之公墓。園區內之紀念碑六座，墓塚四門，分屬三個時期建造，(一)清領時期，1885年法軍於大沙灣所興建之墓碑，(二)日治時期，1909年日本政府接受法國委建，以及1929年法國政府派員參加移管式時所建，(三)光復後，1954年法國政府由澎湖遷建之墓塚，並立遷移記事碑。",
+				"EToldescribe": "The Sino-French War Relic was founded in Qing Guangxu 11 years (1885) to commemorate the sacrifice of French soldiers during the Chinese-French War. This cemetery is the only building directly related to this war, and it is one of the cemeteries where Westerners have been buried since the end of the Qing Dynasty.Six monuments are built in three periods, (i) the Qing Dynasty, the tombstones built by the French in Dashawan in 1885, and (ii) the period of the Japanese rule, 1909 The Japanese government accepted the French commission, and in 1929 when the French government sent personnel to participate in the transfer of management-style construction, (iii) after the recovery, in 1954 the French government from Penghu to build the tomb, and erected the removal of the monument.",
+				"CoastalActivities": "18",
+				"Amenities": "12",
+				"Tel": "886-2-24224170#395",
+				"CAdd": "202基隆市中正區中正路與東海街交叉路口",
+				"EAdd": "Zhongzheng Rd., Zhongzheng Dist., Keelung City 202004 , Taiwan (R.O.C.)",
+				"Opentime": "00:00-24:00",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/e4926e90-b376-4d2c-bae0-b48cddd06ab7.jpg",
+				"Picdescribe1C": "清法戰爭紀念園區",
+				"Picdescribe1E": "The Sino-French War Relic"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.8023,
+					25.14227
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.8023,
+				"Py": 25.14227,
+				"CName": "長潭里漁港潮間帶",
+				"EName": "Changtanli fishing port intertidal zone",
+				"CToldescribe": "長潭里名字由來八斗子位於基隆市中正區，昔日八斗子是一個島嶼，島與陸地間是一個狹長的水道，故稱為「長潭」。長潭里潮間帶是在往潮境公園的橋下的一個生態腹地，他鄰近長潭里社區，往內陸有長潭里漁港，可見許多漁船，而潮間帶區有許多生態還有大片綠藻可在橋上欣賞",
+				"EToldescribe": "Changtan li name is located in Keelung City, the central area, the former Badouzi is an island, the island and land between a narrow waterway, so called \"Changtan.\" Changtan inter-tidal zone is an ecological hinterland under the bridge to Chaoyuan Park, he is close to The Longtan District, inland there is Changtan fishing port, you can see many fishing boats, and the inter-tidal zone has a lot of ecology and a large area of green algae can be enjoyed on the bridge。",
+				"CoastalActivities": "18",
+				"Amenities": "12,15,2,3,4",
+				"Tel": "886-2-24633341",
+				"CAdd": "基隆市中正區北寧路369巷43-2號",
+				"EAdd": "No. 43-2 Ln. 369, Beining Rd., Zhongzheng Dist., Keelung City",
+				"Opentime": "00:00-24:00",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/c856ec74-ed80-44ad-ae83-5a407180a2a7.jpg",
+				"Picdescribe1C": "長潭里漁港潮間帶",
+				"Picdescribe1E": "Changtanli fishing port intertidal zone"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.79098,
+					25.14823
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.79098,
+				"Py": 25.14823,
+				"CName": "八斗子觀景平台",
+				"EName": "Badouzi viewing platform",
+				"CToldescribe": "八斗子觀景平台向前看是東海，背對則是土色土香的漁村文化，漁港停靠許多漁船，鄰近大坪海岸因此可觀看海蝕平台，甚至還有海蝕洞、豆腐岩等瑰麗又獨特的海蝕奇觀，讓人可悠閒的漫步欣賞絕美海景。\n遠望可以看到燈塔，就像是許多漁夫的避風港，這裡充滿變化，平靜的海蝕平台延伸至海面成為一望無際的海景，眺望海平面上海鳥成群飛翔，浪花輕輕拍打岩壁陣陣濤聲呼喚，一年四季都有著不同的海濱感受。",
+				"EToldescribe": "The Badouzi viewing platform looks forward to the East China Sea, and its back is the earthy and fragrant fishing village culture. The fishing port has many fishing boats. It is adjacent to the Daping coast so you can see the sea erosion platform, and even sea erosion caves, tofu rock and other magnificent and unique The sea eclipse spectacle allows people to take a leisurely stroll to admire the stunning sea view.\nFrom a distance, you can see the lighthouse, which is like a haven for many fishermen. It is full of changes. The calm sea erosion platform extends to the sea surface to become an endless seascape. Looking at the sea level, Shanghai birds fly in groups, and the waves lightly beat the rock wall and the waves call out. , There are different seaside feelings throughout the year.",
+				"CoastalActivities": "18",
+				"Amenities": "15",
+				"Tel": "886-2-2423-8660",
+				"CAdd": "基隆市中正區漁港一街",
+				"EAdd": "Yugang 1st St., Zhongzheng Dist., Keelung City",
+				"Opentime": "00:00-24:00",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/39669f2e-413a-47c4-b08c-bc2a8681b852.jpg",
+				"Picdescribe1C": "八斗子觀景平台",
+				"Picdescribe1E": "Badouzi viewing platform"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.79427,
+					25.14708
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.79427,
+				"Py": 25.14708,
+				"CName": "大坪海岸",
+				"EName": "Daping Shore",
+				"CToldescribe": "大坪海岸是經歷數萬年海浪沖擊，形成的典型海蝕平台，甚至還有海蝕洞、豆腐岩等瑰麗又獨特的海蝕奇觀，讓人可悠閒的漫步欣賞絕美海景。春天時，這裡的石頭會覆蓋上一整片亮綠色的海藻，所以大坪海岸還有“綠寶石祕境”的美稱，一旁還可觀察潮間帶中的生態。這裡充滿變化，冬春季具有綠油油的藻田，夏秋季可以觀察海岸化石，春夏時則有豐富的潮間帶生物，平靜的海蝕平台延伸至海面成為一望無際的海景，眺望海平面上海鳥成群飛翔，浪花輕輕拍打岩壁陣陣濤聲呼喚，一年四季都有著不同的海濱感受。",
+				"EToldescribe": "Daping Coast is a typical sea erosion platform that has experienced tens of thousands of years of wave impact, and even has magnificent and unique sea erosion wonders such as sea erosion caves and tofu rocks, which make people enjoy the beautiful sea view for a leisurely stroll. In spring, the stones here are covered with a whole patch of bright green seaweed, so the Taiping coast also has the name \"Emerald Secret\", while also observing the ecology of the inter-tidal zone.",
+				"CoastalActivities": "18",
+				"Amenities": "15",
+				"Tel": "886-2-2423-8660",
+				"CAdd": "基隆市中正區漁港一街",
+				"EAdd": "Yugang 1st St., Zhongzheng Dist., Keelung City",
+				"Opentime": "00:00-24:00",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/a13d0ff0-30fc-467e-ac33-3b081ad38b2d.jpg",
+				"Picdescribe1C": "大坪海岸",
+				"Picdescribe1E": "Daping Shore"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.7975,
+					25.14642
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.7975,
+				"Py": 25.14642,
+				"CName": "忘憂谷",
+				"EName": "Wangyou Valley",
+				"CToldescribe": "基隆市八斗子漁港旁的美麗山谷，與山海相依，以前叫這個山谷為「大湖頂」，民國50多年，有位八斗子人帶一批台大生來這裡玩，當時海禁，大家無法到海邊，只能在山谷玩，他們玩得很快樂，樂而忘憂，為這個地方取名「忘憂」，民國70多年時，又有人在過嶺往海邊一塊石頭上寫下「望幽谷」延用至今。 望幽谷是一個Ｖ字型的山谷，可在綠油油的草地放鬆也可看到八斗子漁港來往的漁船，以及可眺望到遠處的基隆嶼，遊客至此，在環狀的稜線及山谷步道，漫步於山谷草地，走於臨崖的稜線，遠眺海天， 俯瞰崖下的海蝕平台豆腐岩，還有雄奇可觀的臨海峭壁。夜晚時分海面上漁火點點與九份山城的燈火，形成一齣唯美的山海之戀。",
+				"EToldescribe": "The beautiful valley next to the fishing port of Chiron City, which is close to the mountains and seas, was previously called \"the top of the Great Lake\", the Republic of China for more than 50 years, there is a group of eight doozi people with a group of Taiwanese students to play here, when the sea ban, everyone Can't go to the seaside, can only play in the valley, they play very happy, happy and forget worry, for this place named \"forget worry\", the Republic of China more than 70 years, and someone over the mountains to the seaside on a stone to write \"hope valley\" extended to this day.",
+				"CoastalActivities": "18",
+				"Amenities": "12,2,3,4,15",
+				"Tel": "886-2-24696000",
+				"CAdd": "基隆市中正區八斗街",
+				"EAdd": "Badou St.,Zhongzheng Dist., Keelung City",
+				"Opentime": "00:00-24:00",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/9d4b6951-1f5f-4327-a18d-b54df0cd07e6.jpg",
+				"Picdescribe1C": "忘憂谷",
+				"Picdescribe1E": "Wangyou Valley"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.80041,
+					25.13929
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.80041,
+				"Py": 25.13929,
+				"CName": "容軒步道",
+				"EName": "Rongxuan Trall",
+				"CToldescribe": "久聞基隆有一條山海步道極美就位在海科館火車站旁，一直收藏在口袋名單，今日終於有機會來訪，發現整條步道比我想像中還美，除了有海景還有山景，沿途步道規劃完善，輕鬆好走有綠蔭遮蔽還有鳥語花香，全長約400公尺，5分鐘即可攻頂，來回不用半小時就可以看山海美景，堪稱基隆CP值超高的登山步道。",
+				"EToldescribe": "I heard that Keelung has a mountain and sea trail very beautiful position in the Haike Museum railway station, has been collected in the pocket list, today finally had the opportunity to visit, found that the whole trail is more beautiful than I thought, in addition to the sea view and mountain view, along the way trail planning perfect, easy to walk with shade and bird language flowers, the total length of about 400 meters, 5 minutes can attack the top, back and forth can not be half an hour to see the mountain and sea view, can be called the mountain CP super-high mountain.",
+				"CoastalActivities": "18",
+				"Amenities": "12,15",
+				"Tel": "886-2-24696000",
+				"CAdd": "基隆市中正區北寧路446巷",
+				"EAdd": "Ln. 446, Beining Rd., Zhongzheng Dist., Keelung City",
+				"Opentime": "00:00-24:00",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/ba84dea9-7d9d-472d-ad59-aea5a4ea00ee.jpg",
+				"Picdescribe1C": "容軒步道",
+				"Picdescribe1E": "Rongxuan Trall"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.80132,
+					25.14644
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.80132,
+				"Py": 25.14644,
+				"CName": "一Ｏ一高地",
+				"EName": "101 highland",
+				"CToldescribe": "從忘憂谷的入口繼續往上走即可到達，潮境公園海螺溜滑梯旁邊也有有個步道，沿著階梯上去便是八斗子101高地。因為海拔為101公尺，所以有101高地之稱，同樣的65高地以及80高地都是這樣命名的，八斗子海濱公園三面環海，另一面則緊臨基隆山；位於和平島東側，可俯瞰八斗子海灣、遠眺基隆嶼、九份，視線所及的景色壯闊迷人，海天美景俯拾即是。",
+				"EToldescribe": "From the entrance to the Valley of Worries continue to walk up to reach, Chaoyuan Park conch slide next to there is also a trail, along the ladder is the eight doo 101 highlands. Because the altitude is 101 meters, so there are 101 highlands, the same 65 highlands and 80 highlands are named like this, the eight Doozi waterfront park surrounded by the sea on three sides, the other side is close to Mount Keelung.Located on the east side of Peace Island, overlooking the Bay of Octopus, overlooking KeelungYu, nine copies, the view is magnificent and charming, the sea and sky beauty is up.",
+				"CoastalActivities": "18",
+				"Amenities": "12",
+				"Tel": "886-2-24258245",
+				"CAdd": "基隆市中正區八斗街",
+				"EAdd": "Badou St.,Zhongzheng Dist., Keelung City",
+				"Opentime": "00:00-24:00",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/cda2d3d2-465b-4f79-a246-fe05469c0bf7.jpg",
+				"Picdescribe1C": "一Ｏ一高地",
+				"Picdescribe1E": "101 highland",
+				"Website": "https://www.nmmst.gov.tw/chhtml/content/475"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.79756,
+					25.14766
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.79756,
+				"Py": 25.14766,
+				"CName": "八斗子海豹岩",
+				"EName": "Badouzi",
+				"CToldescribe": "可從大坪海岸入口處步行約10分鐘可抵達海豹岩，某個角度看真的很像，配上藍天白雲再加上遠方基隆嶼真的是蠻美，前往時，注意漲退潮時間，且最好穿著防滑膠底鞋 ",
+				"EToldescribe": " Walk from the entrance of the Daping coast about 10 minutes to reach seal rock, a certain point of view is really like, with blue sky and white clouds plus the distant Keelungyu is really quite beautiful, when going, pay attention to the high tide time, and it is best to wear non-slip rubber shoes。",
+				"CoastalActivities": "18",
+				"Amenities": "15",
+				"Tel": "886-2-2423-8660",
+				"CAdd": "基隆市中正區漁港一街",
+				"EAdd": "Yugang 1st St., Zhongzheng Dist., Keelung City",
+				"Opentime": "00:00-24:00",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/12d55e88-b113-4e28-98c4-fb35ba0d6df4.jpg",
+				"Picdescribe1C": "八斗子海豹岩",
+				"Picdescribe1E": "Badouzi"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.74134,
+					25.13102
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.74134,
+				"Py": 25.13102,
+				"CName": "海洋廣場",
+				"EName": "Maritime Plaza",
+				"CToldescribe": "海洋廣場，於民國98年8月19日正式啟用，主要在基隆港內側海域新建15至30公尺寬的海上原木平台，總面積達5,000平方公尺，廣場上設有木製礁石、波浪流線雨遮海洋意象造型及『KEELUNG』大型彩色LED字體，可讓國內外旅客抵達時，不分日夜都能感受基隆的城市魅力。\n基隆由於三面環海，港灣深入基隆市區，木棧平台上設置多組木製礁石和波浪流線的景觀藝術作品，傳達濃郁的海洋意象風情。\n由於緊鄰基隆港邊，在此可見大小船隻見進出出，身型龐大的貨櫃輪、悍衛海疆的軍艦、碼頭的工作船隻，而其中最引人注意的也就是一艘艘的郵輪，吸引許多遊客在此留影。另外，東北季風起時這裡也是欣賞老鷹遨翔、覓食的好地方。",
+				"EToldescribe": "Keelung Maritime Plaza opened on August 19, 2009. The wooden platform was mainly built 15 to 30 meters wide with 5,000 square meters total in the interior section of Keelung harbor. There is a wooden reef, a modeling of wave streamline, and Keelung in LED. So, tourists can feel charmed by Keelung city all the day long. \nKeelung is surrounded by sea on the three sides and harbor also extends deeply to Keelung city. The harbor sets up multiple wooden reefs and of landscape art of wave streamline. It conveys the heavy ocean image and style and has a function of beautification of the landscape and recreation. The Maritime Plaza is situated in the side of Keelung Harbor so tourists can watch many boats coming back and forth, including the enormous cargo ships, warships, and some other vessels; however, the most striking point is the cruise attracting tourists to take a picture. Besides, when a Northeasterly wind arrived here, this is a good place to enjoy watching eagles soaring in the sky and foraging for food.",
+				"CoastalActivities": "18",
+				"Amenities": "2,3,4,5,12,14",
+				"Tel": "886-2-2420-1122#2904～2909",
+				"CAdd": "200基隆市仁愛區忠一路",
+				"EAdd": "Zhong 1st Rd., Ren’ai Dist., Keelung City 200001 , Taiwan (R.O.C.)",
+				"Opentime": "00:00-24:00",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/fa898614-f3e2-464e-996a-dff4fd507feb.jpg",
+				"Picdescribe1C": "海洋廣場",
+				"Picdescribe1E": "Maritime Plaza"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.76401,
+					25.16071
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.76401,
+				"Py": 25.16071,
+				"CName": "阿拉寶灣",
+				"EName": "Alabao Bay",
+				"CToldescribe": "「阿拉寶灣」在以前是阿美族人到基隆討生活時所命名，他們以臺東縣東河鄉泰源村小部落為名，頭目告誡遠離家鄉的族人們說：「千萬不要忘了自己的故鄉，要時時想念自己是阿美族人。」因此阿拉寶灣的名稱還有著「你的故鄉」的美麗含意在裡頭。阿拉寶灣內有很多因海蝕形成一格格塊狀岩石，在日出黃金色陽光灑落時，形成攝影師之間最熱門的景點，阿拉寶灣還曾列入美國中文網評選「全球最美21個日出觀測點」之一。阿拉寶灣，每年僅開放4個月，且單日人數上限為300人，如果民眾有想參觀阿拉寶灣，必須七天前在和平島公園官方網站報名、專業導覽人員陪同及全程穿戴安全裝備，全程皆為戶外體驗，再加上天候關係開放時間不長，因為這些原因使阿拉寶灣成為「秘境中的秘境」。",
+				"EToldescribe": "Even Hollywood star Chris Evans, who shot the famous movie \"Captain America,\" has been here to shoot commercials. At present, the internal tour is not allowed, only for peripheral viewing.Forming one of the most popular attractions among photographers, Arabao Bay was also named one of the 21 most beautiful sunrise observation points in the world by the U.S. Chinese Network. Arabao Bay, only open for 4 months a year, and the maximum number of people per day is 300 people, if the public want to visit Arabao Bay, must be seven days ago in the official website of Peace Island Park registration, professional guides accompanied and wearing safety equipment, the whole outdoor experience,coupled with the fact that weather relations are not open for long, these reasons make Arabao Bay a secret place.",
+				"CoastalActivities": "18",
+				"Amenities": "1,2,3,4,5,6,7,8,11,12,14,15,16,18",
+				"Tel": "886-2-24635452",
+				"CAdd": "基隆市中正區平一路360號",
+				"EAdd": "No. 360, Ping 1st Rd., Zhongzheng Dist., Keelung City ",
+				"Opentime": "08:00-19:00/08:00-18:00",
+				"OpenremarkC": "5-10月前者時間 11-4月後者時間",
+				"OpenremarkE": "the former time in May to October  the latter time in November to Apirl",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/3abaa419-9c9d-4452-9e86-481a39aabf45.jpg",
+				"Picdescribe1C": "阿拉寶灣",
+				"Picdescribe1E": "Alabao Bay"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.74099,
+					25.12944
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.74099,
+				"Py": 25.12944,
+				"CName": "崁仔頂漁市",
+				"EName": "Kanzaiding Shopping District",
+				"CToldescribe": "崁仔頂商圈泛指孝一路與孝二路路段，可分為二種特色商圈，其中孝一路部份，為基隆市區傳統漁市所在，每到凌晨時分，此地已經湧入北台灣地區的魚販或是喜愛生鮮漁獲的饕客們聚集。崁仔頂漁市的漁獲林林總總、非常豐富，是台灣批發市場中漁獲種類最多的交易場所，在這裡可以買到剛捕撈上岸，最新鮮的現撈漁獲，價格比起一般市場，可以說是便宜得不得了，讓不少遊客慕名而來搶便宜又新鮮的漁獲。\n漁行在清晨兩三點就會開始拍賣，以前一日的成交價格為底價，再漸漸往上加價，直到有買主決定購買為止，漁獲拍賣的活動持續到早上六至七點，造成崁仔頂「不夜城」的特殊景觀，是台灣獨一無二的特色景點。",
+				"EToldescribe": "Kanzaiding Shopping District is in the sections of Xiao 1st Rd and Xiao 2nd Rd, which divide into two kinds of shopping districts. The section of Xiao 1st Rd is a traditional fish market. The fishes are fresh and the prices are cheaper than normal market. Fishmongers sell fishes in midnight two or three o'clock and selling activity continues until to six or seven o'clock in the early morning. Therefore, Kanzaiding can see the view of the sleepless city. In addition, the section of Xiao 2nd Rd is full of consignment stores. There are lots of foreign goods for visitors.",
+				"CoastalActivities": "18",
+				"Amenities": "12",
+				"Tel": "886-2-24222567",
+				"CAdd": "200基隆市仁愛區孝一路",
+				"EAdd": "Xiao 1st Rd., Ren’ai Dist., Keelung City 200001 , Taiwan (R.O.C.)",
+				"Opentime": "01:00-06:00",
+				"OpenremarkC": "每週一休息",
+				"OpenremarkE": "Closed on Mondays",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/68eb2c34-cc2e-4b50-8d37-5c0de53eaa0c.jpg",
+				"Picdescribe1C": "崁仔頂漁市",
+				"Picdescribe1E": "Kanzaiding Shopping District"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.74422,
+					25.1274
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.74422,
+				"Py": 25.1274,
+				"CName": "許梓桑古厝",
+				"EName": "Xu, Zi-Sang Historical House",
+				"CToldescribe": "許梓桑古厝位於基隆市仁愛區，慶餘堂是古厝的正式稱呼，曾是日治時期基隆區長許梓桑先生居住的官邸。壁堵上裝飾著許多燒製的花鳥彩色磁磚並搭配中式竹節圓窗，屋簷有牛眼窗通氣孔，融合閩式及巴洛克式興建的建築風格。目前因年久失修與風化侵蝕等因素，僅餘牆面，遊客前來遊覽時請留意週遭環境。",
+				"EToldescribe": "Xu, Zi-Sang Historical House is located in Ren’ai District, Keelung City. Qingyutang is its official name. Qingyutang was the former residence of Keelung Street Chief and Taipei State Agreement Member during the Japanese Occupation. At present, due to factors such as disrepair, weathering, and erosion, there are only walls. Visitors should pay attention to the surrounding environment when visiting. Due to the damage of the floor, there is a risk of falling from the second floor to the first floor. Visitors should be careful of your own safety",
+				"CoastalActivities": "18",
+				"Amenities": "12",
+				"Tel": "886-2-24224170#395",
+				"CAdd": "200基隆市仁愛區愛四路2巷15號",
+				"EAdd": "No. 15, Ln. 2, Ai 4th Rd., Ren’ai Dist., Keelung City 200010 , Taiwan (R.O.C.)",
+				"Opentime": "00:00-24:00",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/41b9930d-e94a-4884-b037-5ee4bf39ac0f.jpg",
+				"Picdescribe1C": "許梓桑古厝",
+				"Picdescribe1E": "Xu, Zi-Sang Historical House"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.74317,
+					25.13017
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.74317,
+				"Py": 25.13017,
+				"CName": "基隆東岸廣場",
+				"EName": "E SQUARE",
+				"CToldescribe": "基隆市政府於107年2月將原本東岸商場老舊建築，變身為多功能複合式商場，進駐各國知名餐廳，搭配歷久彌新的廟口夜市，是基隆市區重要的核心。\n除了美食外，廣場內也設有體貼的親子設施，頂樓綠色公共空間，規劃成為空中海景區，還設計了一個開放式的200公尺的PU露天海景跑道，提供民眾有一個新的場地可以選擇，可就近休閒散步，增添更多的遊逛樂趣，走一圈可以把基隆市區的風景看透，同時可眺望郵輪、老鷹及美麗的港景，令人驚艷，堪稱基隆打卡新地標，是基隆市民最佳休憩據點，翻轉出基隆新感受。",
+				"EToldescribe": "In February 2018, the Keelung Municipal Government transformed the old buildings of the Dong An Shopping Mall into multi-functional and complex shopping malls and entered famous restaurants in various countries, such as Putien (winner of Michelin in Singapore), Marugame, SUKIYA, and HAMA Sushi. Shi Erguo, Keelung Harbor Canteen, and Qiaoyisi Kiln Roasting Kitchens. Along with Miaokou Night Market, E Square is an important core of the city of Keelung. In addition to food, E Square also features thoughtful family-friendly facilities, such as a top-floor green public space and an open 200-meter PU open-air seascape track allowing visitors to walk around leisurely and view the scenery of downtown Keelung.",
+				"CoastalActivities": "18",
+				"Amenities": "1,2,3,4,11,12,13,14,15",
+				"Tel": "886-2-24267290",
+				"CAdd": "200基隆市仁愛區仁二路236號",
+				"EAdd": "No. 236, Ren 2nd Rd., Ren’ai Dist., Keelung City 200005 , Taiwan (R.O.C.)",
+				"Opentime": "1F廣場 06:00-24:00\n3F、RF廣場 10:00-23:00",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/ba3eb3fd-76a9-49b9-88a8-363cf29cd72e.jpg",
+				"Picdescribe1C": "基隆東岸廣場",
+				"Picdescribe1E": "E SQUARE",
+				"Facebook": "https://www.facebook.com/keelung.esquare/"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.76461,
+					25.16205
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.76461,
+				"Py": 25.16205,
+				"CName": "和平島公園",
+				"EName": "Heping Island Park",
+				"CToldescribe": "和平島公園，2018年由一群基隆在地青年組成的團隊，由一群來自環境教育、觀光旅遊、海洋產學教育等等不同領域人們，聚集在此期望能將和平島營造成國際旅遊島，在發展的同時，也希望能將這片土地上美好的事物好好保存。讓更多的人可以認識基隆也有如此獨特的景觀，期望能成為更永續的和平島公園， 和平島的獨特之處・自然地景與人文地景完美融合之境，和平島為臺灣進入全球歷史的重要的歷史場景，3000 年史前的圓山文化及鐵器時代遺址。17 世紀大航海時代起便登上世界舞台。平埔族原住民、中國漁民、西班牙人、荷蘭人、日本人等，在和平島留下了多種歷史文化的交疊與故事。",
+				"EToldescribe": "Heping Island Park, 2018 by a group of Keelung youth in the ground, by a group of people from environmental education, tourism, marine education and other fields, gathered here in the hope that the Peace Island camp will be an international tourist island, in the development, but also hope to save the beautiful things on this land. It's such a unique landscape for more people to know Keelung.",
+				"CoastalActivities": "12,20,25,26,18",
+				"Amenities": "1,2,3,4,5,6,7,8,11,12,14,15,16,18",
+				"Tel": "886-2-24635452",
+				"CAdd": "202基隆市中正區平一路360號",
+				"EAdd": "No. 360, Ping 1st Rd., Zhongzheng Dist., Keelung City ",
+				"Opentime": "08:00-19:00/08:00-18:00",
+				"OpenremarkC": "5-10月前者時間 11-4月後者時間",
+				"OpenremarkE": "the former time in May to October  the latter time in November to Apirl",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/44f147f2-fc6c-40d2-8476-cfc2d5e84fa6.jpg",
+				"Picdescribe1C": "和平島公園",
+				"Picdescribe1E": "Heping Island Park",
+				"Website": "https://www.hpipark.org/",
+				"Facebook": "https://www.facebook.com/hepingislandpark/"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.80332,
+					25.14415
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.80332,
+				"Py": 25.14415,
+				"CName": "潮境公園",
+				"EName": "Chaojing Park",
+				"CToldescribe": "潮境公園園區原本為一處垃圾集放地，後來經海洋科技博物館籌備處規劃改建後，成為一處看海賞景的最佳去處，而以「潮境」為名的這個公園，因為位於漁港及漁村旁，便希望以這個名稱為地方帶來源源不絕的蘊藏與豐收。進入潮境公園唯一的入口位於長潭里漁港及望海巷漁港中間的一座橘紅色小橋－「平浪橋」，過了這座橋之後，左手邊是長潭里漁村及漁港，右側則是開闊的海蝕平台與海景，在潮境的春夏時分，退潮時的海蝕平台是最佳的自然教室，豐富多樣化的自然生態，讓大家驚呼連連，每個人雙腳都泡著清涼的海水，眼光不停的探尋有趣的潮間帶生物，好不熱鬧！",
+				"EToldescribe": "Originally a garbage dump, the Chaojing  Park was later remodeled by the Marine Science and Technology Museum Preparatory Office to become the best place to see the sea, while the park, known as the \"TideLand\", is located next to fishing ports and fishing villages and hopes to use this name as a source of endless reserves and harvests. The only entrance to Tidal Park is an orange bridge, the Pinglang Bridge, between The Fishing Port of Changtanli and Wanghai LaneAfter crossing this bridge, the left hand side is Changtan fishing village and fishing port, the right side is the open sea erosion platform and sea view, in the tide of spring and summer, low tide sea erosion platform is the best natural classroom, rich and diverse natural ecology, let everyone exclaim, everyone's feet are soaked in cool water, the eyes of non-stop search for interesting inter-tidal belt creatures。",
+				"CoastalActivities": "12,20,21,18",
+				"Amenities": "1,2,3,4,5,12,15",
+				"Tel": "886-2-24696000",
+				"CAdd": "基隆市中正區北寧路369巷61號",
+				"EAdd": "No. 61, Ln. 369, Beining Rd., Zhongzheng Dist., Keelung City",
+				"Opentime": "00:00-24:00",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/c9253eeb-251e-4d96-86df-3815d10931ea.jpg",
+				"Picdescribe1C": "潮境公園",
+				"Picdescribe1E": "Chaojing Park",
+				"Website": "https://www.nmmst.gov.tw/chhtml/content/473"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.78615,
+					25.14607
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.78615,
+				"Py": 25.14607,
+				"CName": "八斗子觀光漁港",
+				"EName": "Badouzi Tourist Fish Port",
+				"CToldescribe": "「八斗子觀光漁港」是一個結合傳統漁獲中心和觀光休閒、海鮮餐廳的一個漁港。漁港設有寬大的停車空間，可以供小型汽車及遊覽車停放，港區內的魚貨直銷中心讓漁民所捕獲的新鮮魚、蝦、蟹等海鮮，直接提供給觀光客購買，不但新鮮，價格更比一般魚市場便宜。遠道而來的觀光客，沒辦法帶回去的，還可以請港區內代客烹煮的餐廳，提供即時又便利的餐飲服務，讓人現場大快朵頤呢！除此之外，遊客還可在八斗子觀光漁港搭乘藍色公路觀光娛樂漁船，探訪海上龍珠-基隆嶼，欣賞湛藍的海天風情。",
+				"EToldescribe": "The Badouzi Fishing Port is a fishing port combining traditional catch centres with sightseeing and leisure and seafood restaurants. The fishing port has a large parking space for small cars and tour buses.",
+				"CoastalActivities": "3,4,6,17,18",
+				"Amenities": "2,3,4,12,14,15",
+				"Tel": "886-2-24693606",
+				"CAdd": "基隆市中正區北寧路211號",
+				"EAdd": "No. 221, Beining Rd., Zhongzheng Dist., Keelung City ",
+				"Opentime": "9:00-19:00/9:00-19:00/9:00-19:00/9:00-19:00/9:00-19:00/8:00-20:00/8:00-20:00 星期一〜星期日",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/c0b0e7bd-ee33-47d5-a711-3e4fd8e241b0.jpg",
+				"Picdescribe1C": "八斗子觀光漁港",
+				"Picdescribe1E": "Badouzi Tourist Fish Port"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.74394,
+					25.15229
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.74394,
+				"Py": 25.15229,
+				"CName": "燈塔文物館",
+				"EName": "Lighthouse Museum",
+				"CToldescribe": "「燈塔文物館」由交通部航港局管轄，於2017年3月開幕，為全台灣首間燈塔博物館，位於基隆西岸的光華路上，招牌掛著「交通部航港局燈塔修護工場」，外觀像是座巨型倉庫，正是利用原基隆港材料配件庫改造、空間活化再利用的成果。基隆燈塔就在「燈塔文物館」不遠處的山腰上，距離僅500公尺，適合規劃行程一次拜訪。",
+				"EToldescribe": "Keelung Lighthouse Museum was opened in March 2017, it is the first lighthouse museum in Taiwan.It looks like a huge warehouse.It is only 500 meters away from Keelung Lighthouse.",
+				"CoastalActivities": "18",
+				"Amenities": "2,3,4,12,15",
+				"Tel": "886-2-89788091",
+				"CAdd": "203基隆市中山區光華路11號",
+				"EAdd": "No. 11, Guanghua Road, Zhongshan District, Keelung City, 203",
+				"Opentime": "10:00-16:00 星期二~星期五",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/08e78ba0-0b41-452b-81b2-2581ddbad4ab.jpg",
+				"Picdescribe1C": "燈塔文物館",
+				"Picdescribe1E": "Lighthouse Museum"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.74016,
+					25.13267
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.74016,
+				"Py": 25.13267,
+				"CName": "陽明海洋文化藝術館",
+				"EName": "YM Oceanic Culture \u0026 Art Museum",
+				"CToldescribe": "館舍前身為日治時期「日本郵船一基隆出張所」，由總督府民政部土木局的森山松之助技師和井手薰技師所設計，竣工於1915年5月4日，當時為日本郵船株式會社所有，是日治時期基隆西岸碼頭重要地標，對於基隆航運地位具有特殊之指標意義。二次世界大戰時，尖塔被擊毀，目前僅能從外牆立面以及復古典雅的圓弧型廊，大致看出日治時期的舊貌。\n陽明海運公司基於對海洋文化傳承的高度關懷，對歷史建築「活化」的再利用，乃於2003年起重新規劃整建，並於2004年12月28日修繕竣工開館啟用，期望透過各種文化、藝術、教育、特展及活動等多元方式，積極投入推廣海洋文化教育工作。",
+				"EToldescribe": "The Yang Ming Oceanic Culture \u0026 Art Museum (YM OCAM), situated at the door of Keelung Port and next to the Keelung railway station, is housed in a historical building with beautiful arches that was originally constructed by the Japanese marine shipping firm (Nippon Yusen Kaisha) on May 4th, 1915. In response to the company's long-term concerns about oceanic culture development as well as to preserve the historical architecture, plans for building conversion for OCAM were drafted in 2003 and constructions completed on December 28th, 2004.",
+				"CoastalActivities": "18",
+				"Amenities": "1,2,3,4,6,7,8,11,12,13,14",
+				"Tel": "886-2-24215681",
+				"CAdd": "200基隆市仁愛區港西街4號",
+				"EAdd": "No. 4, Gangxi St., Ren’ai Dist., Keelung City 200202 , Taiwan (R.O.C.)",
+				"Opentime": "09:00-17:00",
+				"OpenremarkC": "每週一休息",
+				"OpenremarkE": "Closed on Mondays",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/e726b99d-5660-4203-834c-8fd30d436624.jpg",
+				"Picdescribe1C": "陽明海洋文化藝術館",
+				"Picdescribe1E": "YM Oceanic Culture \u0026 Art Museum",
+				"Website": "https://www.ocam.org.tw/",
+				"Facebook": "https://www.facebook.com/ymocam1915/"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.74734,
+					25.13221
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.74734,
+				"Py": 25.13221,
+				"CName": "主普壇",
+				"EName": "Chupu Altar ",
+				"CToldescribe": "主普壇早期建於新石街或草尾店街，後來才遷移到目前中正公園現址，三層樓高的中式古樓建築外觀，十分具有規模與現代感，可以俯瞰整個基隆地區。\n每至農曆7月雞籠中元祭皆舉辦在主普壇，從開龕門、立燈篙、迎斗燈、迎水燈、放水燈、跳鍾馗、初一至月尾街頭巷尾的全民普渡運動，已成為基隆最重要的民俗慶典，近幾年更躍升為名聞遐邇的觀光活動。為讓社會大眾對中元祭的歷史淵源、祭典儀式、經典法器等充分了解，並提供各級學校校外教學之教材及促進國內外文化觀光交流，於是進行「中元祭祀文物館」之規劃、設立。\n「中元祭祀文物館」以展示祭祀活動之相關文物為主，並透過多媒體導覽、魔幻劇場以及祭祀之供品模型等，呈現獨特的中元祭特色。為強化人文、史蹟、產業與中元慶典結合，將館內劃分為固定展區與特展區，固定展區以展示中元祭祀活動為主，介紹雞籠中元祭典儀式及歷史淵源，特展區則為彈性之自由展區，提供與市民互動之場所，讓文物館之展示更為多元化。",
+				"EToldescribe": "Chungyuan Sacrifice (the seventh full moon in a lunar year) is the most important annual folklore sacrificial festival in Keelung, and the major site to hold the sacral ceremony is Chupou Altar. Early on, it was built on Hsinshi Street or Tsaowei store street, but it has been moved to Jhongjheng Park with much larger scale and more modern sense. At the three-story Chupu Altar, you may overlook the whole Keelung area. There is a museum where there is a collection of historical relics regarding Chungyuan sacrifice. The permanent exhibits of Chupu Altar include cultural artifacts related to the traditional rituals and related activities, and the ceremony highlights and histories are brought to life via multimedia presentations. There is also a special exhibits area with wide-ranging themes. The collection includes the rituals and articles used in Chungyuan Sacrifice. It also exhibits diversified Chungyuan Sacrifice items, so it is very valuable for you to come to explore. There is a lighting ceremony on the 15th of July of the lunar calendar; this activity always brings the public's ardent participation of Chupu Altar's ritual to new heights.",
+				"CoastalActivities": "18",
+				"Amenities": "2,3,4,8,12,15",
+				"Tel": "886-2-24284242",
+				"CAdd": "202基隆市中正區信二路280號",
+				"EAdd": "No. 280, Xin 2nd Rd., Zhongzheng Dist., Keelung City 201015 , Taiwan (R.O.C.)",
+				"Opentime": "09:00-17:00",
+				"OpenremarkC": "每週一休息",
+				"OpenremarkE": "Closed on Mondays",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/ff312bef-f3fc-4e7a-a011-762104568099.jpg",
+				"Picdescribe1C": "主普壇",
+				"Picdescribe1E": "Chupu Altar "
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.7076,
+					25.16683
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.7076,
+				"Py": 25.16683,
+				"CName": "大武崙澳底漁港",
+				"EName": "Aozi Fishing Port",
+				"CToldescribe": "大武崙澳底漁港為小型漁船停泊之地，自外木山漁港至澳底漁港之濱海區域為外木山海濱觀光廊帶，為本市轄區僅存最長的天然海岸。自外木山漁港自澳底通村全長約5公里的海岸公路，一側為開闊的海岸景觀，一側為高聳的單面山懸崖，是極富壯麗景色的海岸線。在澳底漁村的沙灘是僅存的沙岸地型，小而美麗，夏日時成為民眾戲水游泳的好去處。夏季的日出是海岸不可多得的美景，坐在岸邊聆聽濤聲，欣賞彩霞萬丈之景，令人心曠神怡。海岸礁岩長年經海水沖蝕，雕塑出奇特的造形，值得大家深入觀賞體會。早年外木山及大武崙濱海漁村無道路通往市區，漁民必須翻山越嶺，將漁獲運往市區及生活品之採買，於是便走出了「海興」及「中山峽谷」兩條森林步道，目前可以由海濱通往情人湖公園及大武崙砲台。",
+				"EToldescribe": "A small fishing port with golden beach in the shape of a half moon.Boarwalk has been built for resting and enjoying the view. It is face the sea with the hills for a background. It is a coastline with a magnificent view.",
+				"CoastalActivities": "18",
+				"Amenities": "2,3,4,5,12,15",
+				"Tel": "886-2-24287664",
+				"CAdd": "204基隆市安樂區湖海路二段160號",
+				"EAdd": "No. 160, Section 2, Huhai Road, Anle District, Keelung City, 204",
+				"Opentime": "00:00-24:00",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/62e8560e-d2e2-4b87-abd3-2f882f7271ea.jpg",
+				"Picdescribe1C": "大武崙澳底漁港",
+				"Picdescribe1E": "Aozi Fishing Port"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.80349,
+					25.14519
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.80349,
+				"Py": 25.14519,
+				"CName": "潮境工作站",
+				"EName": "Chaojing Ocean Center",
+				"CToldescribe": "潮境營運工作站基本上與經營一個小型水族館無異，水生生物之採集與飼養、機電與維生系統之操作、水質的調整與管理、餌料生物之處理與疾病之防治，都是彼此環環相扣而且關係密切之知識與技術。如何穩定營運本站，對參與作業之成員都是一個挑戰。另一方面，也是培養優秀水族專業人員良好的訓練場所。",
+				"EToldescribe": "Chaojing  operation workstation is basically the same as operating a small aquarium, aquatic biological collection and breeding, mechanical and electrical and life-support system operation, water quality adjustment and management, bait biological treatment and disease prevention and control, are linked to each other and closely related knowledge and technology. How to stabilize the operation of this site is a challenge for the members involved in the operation. On the other hand, it is also a good training ground for training excellent aquarium professionals.",
+				"CoastalActivities": "18",
+				"Amenities": "1,2,3,4,8,12,15",
+				"Tel": "886-2-24696000",
+				"CAdd": "基隆市中正區北寧路369巷61號",
+				"EAdd": "No. 61, Ln. 369, Beining Rd., Zhongzheng Dist., Keelung City",
+				"Opentime": "9:00-16:30/9:00-16:30/9:00-16:30/9:00-16:30/9:00-16:30/9:00-16:30 星期二〜星期日",
+				"OpenremarkC": "11-2月不分平假日營業至17:00 每週一ˋ除夕休館",
+				"OpenremarkE": "In November to Feburary opening at 9:00-17:00 in weekdays and weekends.Closed at every Monday and Chinese New Year's Eve",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/22c0612f-b322-4fd3-84db-90469f11aa13.jpg",
+				"Picdescribe1C": "潮境工作站",
+				"Picdescribe1E": "Chaojing Ocean Center",
+				"Website": "https://www.nmmst.gov.tw/chhtml/content/95"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.79862,
+					25.14014
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.79862,
+				"Py": 25.14014,
+				"CName": "國立海洋科技博物館",
+				"EName": "National Museum of Marine Science \u0026 Technology",
+				"CToldescribe": "海科館將藉著各項展覽、教育、研究和蒐藏活動，呈現與詮釋有關海洋科學與科技的發展及應用、台灣海洋文化的形成、海洋生態的演化、及人類與海洋的關係。同時強調基隆與八斗子地區的文化與環境特色，結合周邊區域（碧砂觀光漁港、八斗子漁港、漁村、濱海公園、海灣等）及相關單位（漁業署、水產試驗所、海洋大學、 台灣國際造船股份有限公司基隆廠、基隆市政府、基隆區漁會等）等在地特色，形成一處以「海洋」為主題的教育與休憩觀光廊帶，成為一個具有獨特風格的海洋教育與觀光休閒園區（簡稱海洋教育園區）。",
+				"EToldescribe": "Through exhibitions, education, research and collection activities, the Museum will present and interpret the development and application of marine science and technology, the formation of Taiwan's marine culture, the evolution of marine ecology, and the relationship between human and marine. At the same time, it emphasizes the cultural and environmental characteristics of Keelung and The Octopus region, combined with the surrounding area to form an ocean-themed education and recreation corridor, to become a unique style of marine education and tourism and leisure park",
+				"CoastalActivities": "18",
+				"Amenities": "1,2,3,4,8,11,12,13,14,15",
+				"Tel": "886-2-24696000",
+				"CAdd": "基隆市中正區北寧路367號",
+				"EAdd": "No. 367,  Beining Rd., Zhongzheng Dist., Keelung City",
+				"Opentime": "9:00-17:00/9:00-17:00/9:00-17:00/9:00-17:00/9:00-18:00/9:00-18:00 星期二〜星期日",
+				"OpenremarkC": "11-2月不分平假日營業至17:00 每週一ˋ除夕休館",
+				"OpenremarkE": "In November to Feburary opening at 9:00-17:00 in weekdays and weekends.Closed at every Monday and Chinese New Year's Eve",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/8b0e2b37-3392-4f2a-8020-226d9d9b0edc.jpg",
+				"Picdescribe1C": "國立海洋科技博物館",
+				"Picdescribe1E": "National Museum of Marine Science \u0026 Technology",
+				"Website": "https://www.nmmst.gov.tw/chhtml/",
+				"Facebook": "https://www.facebook.com/NMMST.TW/"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.78691,
+					25.19078
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.78691,
+				"Py": 25.19078,
+				"CName": "觀音座",
+				"EName": "Guanyin",
+				"CToldescribe": "位於基隆嶼南面，礁上釣位狹窄，僅兩人站立作釣較為舒適，遠眺礁石釣位貌似供奉神明神桌，故被釣友暱稱為觀音座，礁石岩根周圍水深約3至5米，退潮時釣位前方是緩流區幾乎無流，漲潮時偶有紅魽魚群靠近追食小魚，夏秋季以雀鯛魚類為大宗，冬季尾春季初則有瓜子鱲、鸚哥魚群現蹤。",
+				"EToldescribe": "Located on the south side of Keelung Islet, the fishing position on the reef is narrow.It's more comfortable for only two people to stand for fishing.It looks like a divine table from a distance, so it is nicknamed Guanyinzuo by fishermen.",
+				"CoastalActivities": "17",
+				"Tel": "886-2-24225800",
+				"CAdd": "202基隆市中正區基隆嶼",
+				"EAdd": "202 Keelung Island, Zhongzheng District, Keelung City",
+				"Opentime": "0 5 : 0 0-1 5 : 0 0(夏季) 0 6 : 0 0-1 5 : 0 0(冬季)依日出時間",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/bd7aa5ef-7ad4-4d7e-a6a1-cad9d1d7a406.jpg",
+				"Picdescribe1C": "基隆嶼18座島礁",
+				"Picdescribe1E": "Keelung Islet 18 reefs"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.78934,
+					25.19561
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.78934,
+				"Py": 25.19561,
+				"CName": "雞心東礁",
+				"EName": "Jixin Don reef",
+				"CToldescribe": "位處基隆嶼正北面，屬獨立於海面獨立礁石，礁邊水深十二至二十八米，流水暢旺，魚群種類相當豐富，幾乎囊跨基隆嶼所有魚種，瓜子鱲（黑毛）、三線磯鱸（黃雞）、三棘天狗鯛、俗名（黑豬哥）、烏尾鮗科（紅尾冬）、天竺舵魚，俗名（白毛、開旗）、鰺科（紅魽魚）、鮨科（點帶石斑、橫帶石斑），此釣點，一年四季都是外礁磯釣客，兵家必爭之地。",
+				"EToldescribe": "Located in the north of Keelung Islet, independent of the reefs on the sea.The reef has a depth of 12 to 28 meters.The species of fish are quite rich. Almost all the fish species in Keelung Islet.This fishing spot is full of anglers all year round.",
+				"CoastalActivities": "17",
+				"Tel": "886-2-24225800",
+				"CAdd": "202基隆市中正區基隆嶼",
+				"EAdd": "202 Keelung Island, Zhongzheng District, Keelung City",
+				"Opentime": "1 5 : 0 0-1 5 : 0 0(夏季) 0 6 : 0 0-1 5 : 0 0(冬季)依日出時間",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/bd7aa5ef-7ad4-4d7e-a6a1-cad9d1d7a407.jpg",
+				"Picdescribe1C": "基隆嶼18座島礁",
+				"Picdescribe1E": "Keelung Islet 18 reefs"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.78849,
+					25.19476
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.78849,
+				"Py": 25.19476,
+				"CName": "峭壁釣場",
+				"EName": "Cliff fishing ground",
+				"CToldescribe": "處於基隆嶼正北面山壁下方，釣位上方海蝕洞穴是白腹鰹鳥棲息地，每日清晨五點會成群飛出外覓食，黃昏時陸續飛回巢穴棲息，礁邊水深介於十三至二十米，岩根下方海面下有一內凹，掠食型大型魚類易躲藏於此，石鯛科魚種（橫帶石鯛））、鮨科（點帶石斑、橫帶石斑），礁岩前方十米處是三線磯鱸（黃雞）、覓食區。",
+				"EToldescribe": "Located at the bottom of the mountain wall on the north side of Keelung Islet, the sea cave above the fishing position is the habitat of Sula leucogaster.Every morning at 5 o'clock in the morning, they fly out in groups to find food.",
+				"CoastalActivities": "17",
+				"Tel": "886-2-24225800",
+				"CAdd": "202基隆市中正區基隆嶼",
+				"EAdd": "202 Keelung Island, Zhongzheng District, Keelung City",
+				"Opentime": "2 5 : 0 0-1 5 : 0 0(夏季) 0 6 : 0 0-1 5 : 0 0(冬季)依日出時間",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/bd7aa5ef-7ad4-4d7e-a6a1-cad9d1d7a408.jpg",
+				"Picdescribe1C": "基隆嶼18座島礁",
+				"Picdescribe1E": "Keelung Islet 18 reefs"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.78284,
+					25.19257
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.78284,
+				"Py": 25.19257,
+				"CName": "土地公礁釣場",
+				"EName": "Earth God Reef Fishing Ground",
+				"CToldescribe": "位處基隆嶼正西面，礁石左側面基隆嶼山洞土地公廟，故被暱稱為土地公礁，礁邊周圍水深三至五米，水面下暗礁林立，魚種多為雀鯛魚類，冬春季則有瓜子鱲（黑毛）、靠近覓食。",
+				"EToldescribe": "Located on the west side of Keelung Islet, on the left side of the reef, it is called Earth God Temple in Keelung Islet Cave, so it is nicknamed Land Public Reef Fishing Ground.",
+				"CoastalActivities": "17",
+				"Tel": "886-2-24225800",
+				"CAdd": "202基隆市中正區基隆嶼",
+				"EAdd": "202 Keelung Island, Zhongzheng District, Keelung City",
+				"Opentime": "3 5 : 0 0-1 5 : 0 0(夏季) 0 6 : 0 0-1 5 : 0 0(冬季)依日出時間",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/bd7aa5ef-7ad4-4d7e-a6a1-cad9d1d7a409.jpg",
+				"Picdescribe1C": "基隆嶼18座島礁",
+				"Picdescribe1E": "Keelung Islet 18 reefs"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.78752,
+					25.19101
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.78752,
+				"Py": 25.19101,
+				"CName": "碼頭礁釣場",
+				"EName": "Pier reef",
+				"CToldescribe": "位於基隆嶼南面，從海面上遠眺礁石形狀一字型，類似船舶停舶碼頭，故被釣客稱為碼頭礁，礁上釣位寬敞，能容許6至8人同時作釣，礁石周圍水深，介於8至15米，四季魚種以三棘天狗鯛、俗名（黑豬哥）、鸚哥魚類、雀鯛魚類為大宗，冬季末春季初時，偶有成群瓜子鱲、三線磯鱸，俗名（黃雞魚）現蹤。",
+				"EToldescribe": "Located on the south of Keelung Islet, the reef is shaped like a straight line from the sea.Similar to the dock for ships, it is called pier reef by fishermen.The fishing position on the reef is spacious, which can allow 6 to 8 people to fish at the same time. The water depth around the reef is between 8 and 15 meters.",
+				"CoastalActivities": "17",
+				"Tel": "886-2-24225800",
+				"CAdd": "202基隆市中正區基隆嶼",
+				"EAdd": "202 Keelung Island, Zhongzheng District, Keelung City",
+				"Opentime": "4 5 : 0 0-1 5 : 0 0(夏季) 0 6 : 0 0-1 5 : 0 0(冬季)依日出時間",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/bd7aa5ef-7ad4-4d7e-a6a1-cad9d1d7a410.jpg",
+				"Picdescribe1C": "基隆嶼18座島礁",
+				"Picdescribe1E": "Keelung Islet 18 reefs"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.78789,
+					25.1912
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.78789,
+				"Py": 25.1912,
+				"CName": "鳥嘴礁釣場",
+				"EName": "Beak Reef Fishing Ground",
+				"CToldescribe": "位於基隆嶼東南面，礁石左側與碼頭礁凸岬對應，形成天然內凹，空中鳥瞰狀似鸚鵡鳥嘴，因此被稱為鳥嘴礁，秋冬至春季有成群瓜子鱲、三線磯鱸，靠近礁岩外緣覓食，岩根邊緣白沫區則有天竺舵魚，俗名（白毛、開旗）在周圍覓食，冬季至春季，登礁處外緣偶有單角革單棘魨，俗名（剝皮魚）三五成群洄游，南面礁石最令釣客驚艷的是，從鳥嘴礁至燈塔礁離岸十五米海域內，有一大一小海龜常年駐守，釣客常戲稱海龜為基隆嶼島主。",
+				"EToldescribe": "Located in the southeast of Keelung Islet.The most amazing thing for anglers on the southern reef is that there are one large and one small turtles stationed all year round, and anglers often jokingly call the turtles the owner of Keelung Islet.",
+				"CoastalActivities": "17",
+				"Tel": "886-2-24225800",
+				"CAdd": "202基隆市中正區基隆嶼",
+				"EAdd": "202 Keelung Island, Zhongzheng District, Keelung City",
+				"Opentime": "5 5 : 0 0-1 5 : 0 0(夏季) 0 6 : 0 0-1 5 : 0 0(冬季)依日出時間",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/bd7aa5ef-7ad4-4d7e-a6a1-cad9d1d7a411.jpg",
+				"Picdescribe1C": "基隆嶼18座島礁",
+				"Picdescribe1E": "Keelung Islet 18 reefs"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.7886,
+					25.19236
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.7886,
+				"Py": 25.19236,
+				"CName": "東坑礁釣場",
+				"EName": "Dongkeng Reef Fishing Ground",
+				"CToldescribe": "位於基隆嶼正東面，釣位腹地寬敞，後方山壁植披豐富，每年四至六月，鐵炮百合花盛開，九至十月金花石蒜盛開，十八座島礁，就屬東坑礁為最佳賞花處，礁邊海域魚種多為瓜子鱲（黑毛）、三線磯鱸（黃雞），冬季東北季風肆虐時，是極佳閃風浪釣點。",
+				"EToldescribe": "Located on the east side of Keelung Islet, the fishing site is spacious and the rear mountain wall is rich in plantings. Every year from April to June, the lily blooms.The eighteen reefs belong to the Dongkeng Reef as the best place to enjoy flowers.",
+				"CoastalActivities": "17",
+				"Tel": "886-2-24225800",
+				"CAdd": "202基隆市中正區基隆嶼",
+				"EAdd": "202 Keelung Island, Zhongzheng District, Keelung City",
+				"Opentime": "6 5 : 0 0-1 5 : 0 0(夏季) 0 6 : 0 0-1 5 : 0 0(冬季)依日出時間",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/bd7aa5ef-7ad4-4d7e-a6a1-cad9d1d7a412.jpg",
+				"Picdescribe1C": "基隆嶼18座島礁",
+				"Picdescribe1E": "Keelung Islet 18 reefs"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.78915,
+					25.19251
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.78915,
+				"Py": 25.19251,
+				"CName": "內斜礁釣場",
+				"EName": "Inner Reef Fishing Ground",
+				"CToldescribe": "位處基隆嶼東面，鄰近東坑礁旁，屬獨立海面上礁石，周圍流水暢旺，魚種多為瓜子鱲（黑毛）、三線磯鱸（黃雞），東北季風肆虐時，浪向東北湧浪高達一米七時，登礁處有海浪拍打洗礁風險，屬於二級危險釣點。",
+				"EToldescribe": "Located in the east of Keelung Islet, adjacent to Dongkeng Reef, it is an independent reef on the sea.Inner Reef Fishing Ground belongs to the second-level dangerous fishing spot.",
+				"CoastalActivities": "17",
+				"Tel": "886-2-24225800",
+				"CAdd": "202基隆市中正區基隆嶼",
+				"EAdd": "202 Keelung Island, Zhongzheng District, Keelung City",
+				"Opentime": "7 5 : 0 0-1 5 : 0 0(夏季) 0 6 : 0 0-1 5 : 0 0(冬季)依日出時間",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/bd7aa5ef-7ad4-4d7e-a6a1-cad9d1d7a413.jpg",
+				"Picdescribe1C": "基隆嶼18座島礁",
+				"Picdescribe1E": "Keelung Islet 18 reefs"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.78988,
+					25.19291
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.78988,
+				"Py": 25.19291,
+				"CName": "外斜礁釣場",
+				"EName": "Outer Diagonal Reef Fishing Ground",
+				"CToldescribe": "位處基隆嶼東偏東北面，魚種多為瓜子鱲（黑毛）、三線磯鱸（黃雞）、三棘天狗鯛、俗名（黑豬哥），登船處面東南，凸岬面東北，平均斜度約55度，像一塊斜躺在海面洗衣板，易受東北、東、東南浪襲擊，前後無退路，屬一級危險釣點，湧浪高一米四以上，不建議上礁。",
+				"EToldescribe": "Located on the northeast side of Keelung Islet,like a washboard lying on the sea surface.Easily attacked by northeast, east and southeast waves,it is a first-level fishing spot.",
+				"CoastalActivities": "17",
+				"Tel": "886-2-24225800",
+				"CAdd": "202基隆市中正區基隆嶼",
+				"EAdd": "202 Keelung Island, Zhongzheng District, Keelung City",
+				"Opentime": "8 5 : 0 0-1 5 : 0 0(夏季) 0 6 : 0 0-1 5 : 0 0(冬季)依日出時間",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/bd7aa5ef-7ad4-4d7e-a6a1-cad9d1d7a414.jpg",
+				"Picdescribe1C": "基隆嶼18座島礁",
+				"Picdescribe1E": "Keelung Islet 18 reefs"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.78882,
+					25.19429
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.78882,
+				"Py": 25.19429,
+				"CName": "東北坑釣場",
+				"EName": "Northeast pit fishing ground",
+				"CToldescribe": "位處基隆嶼東北偏東面，登船處面東，凸岬面東北，冬季東北季風肆虐時，東北浪向拍打襲擊凸岬，造成礁邊流水暢旺，吸引大量瓜子鱲（黑毛）靠近覓食棲息，是外礁磯釣客狙擊黑毛，兵家必爭之地。",
+				"EToldescribe": "Located in the east of the northeast of Keelung Islet, facing east of the boarding point.",
+				"CoastalActivities": "17",
+				"Tel": "886-2-24225800",
+				"CAdd": "202基隆市中正區基隆嶼",
+				"EAdd": "202 Keelung Island, Zhongzheng District, Keelung City",
+				"Opentime": "9 5 : 0 0-1 5 : 0 0(夏季) 0 6 : 0 0-1 5 : 0 0(冬季)依日出時間",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/bd7aa5ef-7ad4-4d7e-a6a1-cad9d1d7a415.jpg",
+				"Picdescribe1C": "基隆嶼18座島礁",
+				"Picdescribe1E": "Keelung Islet 18 reefs"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.78924,
+					25.19463
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.78924,
+				"Py": 25.19463,
+				"CName": "東北坑外礁",
+				"EName": "Northeast Outer Reef",
+				"CToldescribe": "位處基隆嶼東北面，屬獨立於海面礁石，礁石腹地小高度底，冬季易受湧浪襲擊，東北浪向一米二以上，即有海浪洗礁風險，屬基隆嶼外礁一級危險釣點。",
+				"EToldescribe": "Located in the northeast of Keelung Islet, it is a reef independent of the sea. It is easily attacked by big waves in winter and is a first-level fishing spot.",
+				"CoastalActivities": "17",
+				"Tel": "886-2-24225800",
+				"CAdd": "202基隆市中正區基隆嶼",
+				"EAdd": "202 Keelung Island, Zhongzheng District, Keelung City",
+				"Opentime": "10 5 : 0 0-1 5 : 0 0(夏季) 0 6 : 0 0-1 5 : 0 0(冬季)依日出時間",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/bd7aa5ef-7ad4-4d7e-a6a1-cad9d1d7a416.jpg",
+				"Picdescribe1C": "基隆嶼18座島礁",
+				"Picdescribe1E": "Keelung Islet 18 reefs"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.78921,
+					25.1954
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.78921,
+				"Py": 25.1954,
+				"CName": "雞心礁內側釣場",
+				"EName": "Inside the Jixin Reef Fishing Ground",
+				"CToldescribe": "位處基隆嶼正北面，和雞心東屬同顆礁，差別在登船處和釣位不同方向，礁邊流水和雞心東相同暢旺，水深介於十至十五米，魚群種類多為，瓜子鱲（黑毛）、三線磯鱸（黃雞）、三棘天狗鯛、俗名（黑豬哥）、烏尾鮗科（紅尾冬）。",
+				"EToldescribe": "Located in the north of Keelung Islet, it belongs to the same reef as Jixin dong reef. The difference lies in the boarding place and the fishing position. The water depth is between 10 and 15 meters",
+				"CoastalActivities": "17",
+				"Tel": "886-2-24225800",
+				"CAdd": "202基隆市中正區基隆嶼",
+				"EAdd": "202 Keelung Island, Zhongzheng District, Keelung City",
+				"Opentime": "11 5 : 0 0-1 5 : 0 0(夏季) 0 6 : 0 0-1 5 : 0 0(冬季)依日出時間",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/bd7aa5ef-7ad4-4d7e-a6a1-cad9d1d7a417.jpg",
+				"Picdescribe1C": "基隆嶼18座島礁",
+				"Picdescribe1E": "Keelung Islet 18 reefs"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.78895,
+					25.19513
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.78895,
+				"Py": 25.19513,
+				"CName": "四角礁釣場",
+				"EName": "Four Corners Reef Fishing Ground",
+				"CToldescribe": "位處基隆嶼正北面，礁石右側是雞心礁，左側是基隆嶼北面峭壁，屬於獨立海面上礁石，登礁處地勢較低，易受東北、正北浪襲擊，湧浪高達一米五以上，上下礁即有危險，釣客需攜帶簡易裝備方能迅速上下，釣位在登礁處上方高處，往東面向東北坑，往北面向雞心內，往西面向中礁，往南面向峭壁礁，四周圍均是釣點，魚種資源相當豐富，多為瓜子鱲（黑毛）、三線磯鱸（黃雞）、三棘天狗鯛、俗名（黑豬哥）、烏尾鮗科、俗名（紅尾冬）。",
+				"EToldescribe": "Located just north of Keelung Islet, the right side of the reef is Jixin Reef, and the left side is the cliff of Keelung Islet. It is a reef on the independent sea, surrounded by fishing spots, and abundant fish species resources.",
+				"CoastalActivities": "17",
+				"Tel": "886-2-24225800",
+				"CAdd": "202基隆市中正區基隆嶼",
+				"EAdd": "202 Keelung Island, Zhongzheng District, Keelung City",
+				"Opentime": "12 5 : 0 0-1 5 : 0 0(夏季) 0 6 : 0 0-1 5 : 0 0(冬季)依日出時間",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/bd7aa5ef-7ad4-4d7e-a6a1-cad9d1d7a418.jpg",
+				"Picdescribe1C": "基隆嶼18座島礁",
+				"Picdescribe1E": "Keelung Islet 18 reefs"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.78679,
+					25.19537
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.78679,
+				"Py": 25.19537,
+				"CName": "中礁釣場",
+				"EName": "Middle Reef Fishing Ground",
+				"CToldescribe": "位處基隆嶼北北西面，屬於獨立海面上礁石，登礁處面向礁石北面內凹口，常年受東北浪襲擊，礁石易長藻類青苔，礁石岩根磯際藻類，吸引食藻魚類覓食，譬如天竺舵魚，俗名（白毛、開旗），礁石左側靠近大乞礁凸岬前方，海面流水通暢，海底暗礁林立，是狙擊為瓜子鱲（黑毛）、三線磯鱸（黃雞）一級好釣點。",
+				"EToldescribe": "Located in the north and west of Keelung Islet, it is an independent reef on the sea and there are many submarine reefs. It is a good fishing spot.",
+				"CoastalActivities": "17",
+				"Tel": "886-2-24225800",
+				"CAdd": "202基隆市中正區基隆嶼",
+				"EAdd": "202 Keelung Island, Zhongzheng District, Keelung City",
+				"Opentime": "13 5 : 0 0-1 5 : 0 0(夏季) 0 6 : 0 0-1 5 : 0 0(冬季)依日出時間",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/bd7aa5ef-7ad4-4d7e-a6a1-cad9d1d7a419.jpg",
+				"Picdescribe1C": "基隆嶼18座島礁",
+				"Picdescribe1E": "Keelung Islet 18 reefs"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.78594,
+					25.19489
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.78594,
+				"Py": 25.19489,
+				"CName": "大乞礁釣場",
+				"EName": "Daqi Reef Fishing Ground",
+				"CToldescribe": "位處基隆嶼北偏西北面，登礁處位於西面靠近基隆嶼西面本嶼處，礁石和本嶼天然形成一船溝，遮風避浪方便船舶進入渡礁，大乞礁石凸岬面向正北，易受東北、正北浪襲擊，礁石下海底礁石林立，魚種多為瓜子鱲（黑毛）、三線磯鱸（黃雞），每年冬季十二月初至一月底，是外礁磯釣一級釣點。",
+				"EToldescribe": "Located in the north-northwest of Keelung Islet, it is a first-level fishing spot for outer reefs from the beginning of December to the end of January every winter.",
+				"CoastalActivities": "17",
+				"Tel": "886-2-24225800",
+				"CAdd": "202基隆市中正區基隆嶼",
+				"EAdd": "202 Keelung Island, Zhongzheng District, Keelung City",
+				"Opentime": "14 5 : 0 0-1 5 : 0 0(夏季) 0 6 : 0 0-1 5 : 0 0(冬季)依日出時間",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/bd7aa5ef-7ad4-4d7e-a6a1-cad9d1d7a420.jpg",
+				"Picdescribe1C": "基隆嶼18座島礁",
+				"Picdescribe1E": "Keelung Islet 18 reefs"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.78357,
+					25.19554
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.78357,
+				"Py": 25.19554,
+				"CName": "小乞礁北面釣場",
+				"EName": "Xiaoqi fishing ground north of the reef",
+				"CToldescribe": "位處基隆嶼西北西，和小乞礁屬同顆離岸海面上獨立礁石，唯登礁處與釣位不同，礁邊處於退潮本流區塊，退潮時流水極快，海面下魚種多為三線磯鱸（黃雞），潮水轉換時偶有瓜子鱲（黑毛）、三棘天狗鯛、俗名（黑豬哥）靠近覓食。",
+				"EToldescribe": "Located in the northwest west of Keelung Islet. It is an independent reef on the same sea surface as Xiaoqi Reef",
+				"CoastalActivities": "17",
+				"Tel": "886-2-24225800",
+				"CAdd": "202基隆市中正區基隆嶼",
+				"EAdd": "202 Keelung Island, Zhongzheng District, Keelung City",
+				"Opentime": "15 5 : 0 0-1 5 : 0 0(夏季) 0 6 : 0 0-1 5 : 0 0(冬季)依日出時間",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/bd7aa5ef-7ad4-4d7e-a6a1-cad9d1d7a421.jpg",
+				"Picdescribe1C": "基隆嶼18座島礁",
+				"Picdescribe1E": "Keelung Islet 18 reefs"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.78369,
+					25.19517
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.78369,
+				"Py": 25.19517,
+				"CName": "小乞礁釣場",
+				"EName": "Xiaoqi Reef Fishing Ground",
+				"CToldescribe": "位處基隆嶼西北面，因外觀類似基隆嶼本嶼，被觀光遊客暱稱為小基隆嶼，礁石高度約二十米，地質屬於安山石英岩，礁上植披不不多，僅有少數耐風，海芙蓉本草植物，礁石位於退潮本流區目，流水動能極強，水深介於二十七至三十五米以上，魚種多為三線磯鱸（黃雞），烏尾鮗科、俗名（紅尾冬）。潮水轉換停流時，偶有瓜子鱲（黑毛）、三棘天狗鯛、俗名（黑豬哥）靠近覓食。",
+				"EToldescribe": "Located in the northwest of Keelung Islet, it is nicknamed Small Keelung Islet by tourists because of its appearance similar to the main island of Keelung Islet. The height of the reef is about 20 meters. The geology belongs to andesite quartzite.",
+				"CoastalActivities": "17",
+				"Tel": "886-2-24225800",
+				"CAdd": "202基隆市中正區基隆嶼",
+				"EAdd": "202 Keelung Island, Zhongzheng District, Keelung City",
+				"Opentime": "16 5 : 0 0-1 5 : 0 0(夏季) 0 6 : 0 0-1 5 : 0 0(冬季)依日出時間",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/bd7aa5ef-7ad4-4d7e-a6a1-cad9d1d7a422.jpg",
+				"Picdescribe1C": "基隆嶼18座島礁",
+				"Picdescribe1E": "Keelung Islet 18 reefs"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.78455,
+					25.18995
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 121.78455,
+				"Py": 25.18995,
+				"CName": "燈塔礁釣場",
+				"EName": "Lighthouse Reef Fishing Ground",
+				"CToldescribe": "位於基隆嶼南面，碼頭港口左側，礁石上遺留半截日據時期建造塔柱，因而取名燈塔礁，礁岩周圍水深，介於3至六米，夏秋季魚種多為三棘天狗鯛、俗名（黑豬哥）、鸚哥魚類、雀鯛魚類，冬春季則有瓜子鱲，俗名（粗鱗黑毛）靠近礁石覓食。",
+				"EToldescribe": "Located on the south side of Keelung Islet, on the left side of the pier port, the reef was left with a tower pillar built during the period of the Japanese occupation, hence the name Lighthouse Reef. The water depth around the reef is between 3 to 6 meters.",
+				"CoastalActivities": "17",
+				"Tel": "886-2-24225800",
+				"CAdd": "202基隆市中正區基隆嶼",
+				"EAdd": "202 Keelung Island, Zhongzheng District, Keelung City",
+				"Opentime": "17 5 : 0 0-1 5 : 0 0(夏季) 0 6 : 0 0-1 5 : 0 0(冬季)依日出時間",
+				"Picture1": "https://keelungfarm.klcg.gov.tw/Upload/FileManager/bd7aa5ef-7ad4-4d7e-a6a1-cad9d1d7a423.jpg",
+				"Picdescribe1C": "基隆嶼18座島礁",
+				"Picdescribe1E": "Keelung Islet 18 reefs"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0,
+					0
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 0,
+				"Py": 0,
+				"CName": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0,
+					0
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 0,
+				"Py": 0,
+				"CName": "CName",
+				"EName": "EName",
+				"CToldescribe": "CToldescribe",
+				"EToldescribe": "EToldescribe",
+				"Tel": "Tel",
+				"CAdd": "CAdd",
+				"EAdd": "EAdd",
+				"Opentime": "Opentime",
+				"OpenremarkC": "OpenremarkC",
+				"OpenremarkE": "OpenremarkE",
+				"Picture1": "Picture1",
+				"Picdescribe1C": "Picdescribe1C",
+				"Picdescribe1E": "Picdescribe1E",
+				"Picture2": "Picture2",
+				"Picdescribe2C": "Picdescribe2C",
+				"Picdescribe2E": "Picdescribe2E",
+				"Website": "Website",
+				"Ticketinfo": "Ticketinfo",
+				"Remarks": "Remarks",
+				"Facebook": "Facebook",
+				"Twitter": "Twitter",
+				"Video": "Video",
+				"MapLink": "MapLink"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					118.38954,
+					24.43542
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 118.38954,
+				"Py": 24.43542,
+				"CName": "成功海岸坑道",
+				"EName": "ChenggongTunnelandChenggongBeach",
+				"CToldescribe": "由花崗岩盤鑿而成的成功坑道，位在熱門景點陳景蘭洋樓前方，結合了海岸坑道民防坑道兩項功能而成，相較於金門其他坑道，成功坑道的規模較小，但指揮所、戰防砲陣地、高砲陣地、機槍堡、寢室、廚房一應俱全，在戰時發揮很大的功用。目前有設置許多人像，模擬過去防禦的畫面，戰車碉堡停放一M-41戰車供近距離接觸。總長560公尺的坑道以中興亭為兩邊的分界點，往出海口段由軍方把持，負責監視料羅灣海域情形，另一端接往正義里公所，是居民們避難自衛的空間，十足體現金門過去軍民一家的氛圍。如今成功坑道及海灘褪下了戰時的肅殺氣息，蔚藍大海搖身成為金門夏季最熱門的戲水場所之一！藍眼淚每年４至６月，因為風向及溫度的改變，金門海域常有藍眼淚美景產生，成功海灘因為容易抵達、安全性高，是相當適合觀賞藍眼淚的地方！",
+				"EToldescribe": "Walk2minutesthroughaparkanddownahillfromKinmen'slargestwestern-stylehouse(ChenJing-LanHouse)，andyou'llcometothisgoodexampleofaclassiccoastaldefensestronghold.?Builtintograniterock，thisservedasbothacoastalandcivildefensetunnel.WhilenotasmassiveassomeothertunnelsinKinmen，it'sneverthelesswell-equippedwithacommandpost，howitzerbase，pillbox，anti-aircraftartillerybase，dormitoryandevenakitchen.Inthetunnel，statueshelpbringtolifehowsoldiersdefendedKinmenintheeraofmartiallaw.There'salsoanM41tankinthetankbunkerforyoutoexamine.Thetunnelis560meterslong，dividedintotwosectionsbytheZongxingPavillion.ThesectiontowardstheseawascontrolledbythemilitarytoenablethemtocloselymonitorLialoBay.TheothersectionleadstotheZhongyiVillageOffice，andwasusedasanairraidshelter.Thisdivisionofthetunnel'sfunctionsillustratesthecloserelationshipbetweenthemilitaryandciviliansinthepast.Nownormallyapeacefulquietbeach，everyyearinJulyorAugust，itbecomesabitlivelierduringtheJinhuBeachClamSeason.ChecktheEventspagefordetails，includingthedateofamusicconcertheldatthebeach.Ifyou'reinKinmenbetweenAprilandJune，anothergoodreasontovisitChenggongBeachistoseetheSeaofStarsnaturalmarinephenomena.Goatnight，withinthreedaysbeforeorafterthefirstdayofthelunarmonth，andwhenthewindisfromthesouth.Iftheconditionsareright，ChenggongBeachprovidesaneasilyaccessibleandsafeplacetoviewthisspectacularnaturallightshow.",
+				"CoastalActivities": "26",
+				"Tel": "886-82-332528",
+				"CAdd": "金門縣金湖鎮正義里成功村(鄰近陳景蘭洋樓)?",
+				"EAdd": "ChenggongVillage，ZhengyiVillage(nearbyChenJing-LanWestern-StyleHouse)，JinhuTownship，KinmenCountyTaiwan，R.O.C?",
+				"Opentime": "00:00-24:00",
+				"Website": "https:／／kinmen.travel／zh-tw／Travel／Attraction／1637",
+				"Ticketinfo": "免費"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					118.39009,
+					24.43727
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 118.39009,
+				"Py": 24.43727,
+				"CName": "陳景蘭洋樓.金湯公園",
+				"EName": "ChenJing-lanWestern-styleHouse",
+				"CToldescribe": "這是金門旅居新加坡僑商陳景蘭於公元1921年興建的洋樓宅第，也是金門規模最大的一棟洋樓，是金門華僑回鄉興建「番仔樓」代表作。淨白色的外觀讓陳景蘭洋樓多添了些洋味，精緻的雕花與對稱拱門，猶如西洋建築的工法，是陳景蘭洋樓最令人印象深刻的部份。金湯公園陳景蘭洋樓的正前方就是金湯公園，中央立有一座自由女神，和洋樓的氣質相互交會，顯得高貴大方，附近的成功海灘與坑道，可以融入你參訪行程中的一部分。",
+				"EToldescribe": "ThisimpressivemansionistheresultofoneKinmenbusinessman'ssuccessinSingaporeintheearly1900s.Itsall-whiteexterior，finecarvingsandsymmetricarchwaysareallfeaturesthatgiveitawesternratherthanChineselook.In1949，thisbuildingwastakenoverbythemilitaryforhousing.Itsubsequentlywasusedasamilitaryhospital，recreationcenterformilitarypersonnelonleaveandKinmenSecondarySchoolbuilding.Todayitmakesabeautifulbackdropforweddingphotos.JinTangParkBefittingthegrandeurofthislargewestern-stylehouseisalovelyparkslopingdowntothesea…andinthecenterofit，astatueoflibertyreplicaechoingthewesternambience.",
+				"CoastalActivities": "28",
+				"Tel": "886-82-332528",
+				"CAdd": "金門縣金湖鎮正義里成功村1號?",
+				"EAdd": "No.1，ChenggongVillage，ZhengyiNeighborhood，JinhuTownship，KinmenCountyTaiwan，R.O.C?",
+				"Opentime": "每天09:00-17:00",
+				"Website": "https:／／kinmen.travel／zh-tw／Travel／Attraction／649",
+				"Ticketinfo": "免費"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					118.43351,
+					24.41749
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 118.43351,
+				"Py": 24.41749,
+				"CName": "料羅海濱公園",
+				"EName": "LiuluoSeasidePark",
+				"CToldescribe": "料羅灣位居金門東南海岸，在昔日歷次的戰役中，因負有運補物資的重任，而成為中國人民解放軍砲擊的主要目標，國民黨軍在槍林彈雨中冒險搶灘的鏡頭，早已成為料羅灣令人動容、記憶深刻的歷史畫面。現今的料羅，因綿延潔淨的沙灘與明媚的漁村風光，已規劃成料羅海濱公園，建有遊客中心、綠地、涼亭、沖洗等設施，適合全家大小前來戲水踏浪，而夕陽西下時的料羅海灣別具寧靜之美。海濱公園與南端的媽祖公園相連，立於高台上的媽祖塑像成為此處的新地標。",
+				"EToldescribe": "LiuluoBayislocatedonthesoutheastcoastofKinmen.Inpreviousbattles，itwasthemaintargetoftheChinesePeople’sLiberationArmy’sshellingduetotheheavyresponsibilityoftransportingsupplies.ThefootageoftheKuomintangarmyventuringtolandintherainofbulletshaslongbecomeLiuluoBay.Amovingandmemorablehistoricalpicture.Today'sLiaoluo，duetothestretchofcleanbeachesandbrightfishingvillagescenery，hasbeenplannedasLiaoluoSeasidePark，withavisitorcenter，greenspace，pavilions，washingandotherfacilities，suitableforthewholefamilytocometoplayinthewaterandthewaves，whilethesunsetsTheLiuluoBayatthenexttimehasauniquetranquilbeauty.TheWaterfrontParkisconnectedtotheMazuParkatthesouthernend，andthestatueofMazustandingonahighplatformhasbecomeanewlandmarkhere.",
+				"CoastalActivities": "26",
+				"CAdd": "金門縣金湖鎮金港路旁?",
+				"EAdd": "JingangRd.，JinhuTownship，KinmenCountyTaiwan(R.O.C.)",
+				"Website": "https:／／kinmen.travel／zh-tw／Travel／Attraction／478",
+				"Ticketinfo": "免費"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					118.43846,
+					24.41149
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 118.43846,
+				"Py": 24.41149,
+				"CName": "南石滬公園-喊泉",
+				"EName": "NanshihuPark",
+				"CToldescribe": "南石滬公園有著「迷你張家界」之稱，位在金門東南角料羅村外海岸，過去是開挖地下花崗岩石的礦場，金門產的花崗岩石紋路多元且優美、硬度更勝於大理石，許多著名建物，如：中正紀念堂、桃園國際機場等建築的石材都取自這裡。花崗岩於2002年因不符經濟效益停止開採後，為配合環境保護，將礦場轉為現在的南石滬公園。踏入園區，與蓄水池邊的小風獅爺們打照面，石護欄後的水池倒映著花崗岩壁，人為的開採痕跡，讓岩壁獨具美感，就像是迷你版的張家界，與另一頭的料羅海灣相呼映，記錄下金門曾經的產業文化史。這邊還有全國首創的喊泉設施，深受大家喜愛，紛紛來次大喊能舒壓，看著泉水噴高相當療癒！喊泉開放時間：9:00-17:00(每週四進行設備保養維護，不對外開放使用)每次體驗收費新台幣10元，請自備零錢。",
+				"EToldescribe": "Nanshihu?directlytranslatesasSouthRockLake.Therocksherearen'tjustanyoldrocks—they'regraniteofsuchhighqualitythattheywereusedinthebuildingofSunYat-SenMemorialHallinTaipeiandTaoyuanInternationalAirport.Originallyagranitequarry，operationsceasedin2002whentheywerenolongercost-effective.Thesite'sbeentransformedintoaparkforenvironmentalconservationpurposes.TheWindLionGodsarewaitingontheedgeofthelaketogreetyou!",
+				"CoastalActivities": "28",
+				"Amenities": "15",
+				"Tel": "886-82-332528",
+				"CAdd": "金門縣金湖鎮南石滬公園?",
+				"EAdd": "SiweiRoad，JinhuTownship，KinmenCountyTaiwan，R.O.C?",
+				"Opentime": "00:00-24:00喊泉開放時間：9:00-17:00(每週四進行設備保養維護，不對外開放使用)",
+				"Website": "https:／／kinmen.travel／zh-tw／Travel／Attraction／490",
+				"Ticketinfo": "免費"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					118.42671,
+					24.43661
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 118.42671,
+				"Py": 24.43661,
+				"CName": "太湖園區-中正紀念公園",
+				"EName": "ZhongzhengPark",
+				"CToldescribe": "民國65年，前台灣地區領導人蔣中正逝世周年，金門當地軍民為永懷他「德被金門」，特別興建中正公園加以紀念。中正公園入口位於太湖南側，園區包括太湖及榕園，占地面積廣達50公頃；大門有一壯觀牌樓，牌樓中間靠著太湖湖畔，豎立著先總統蔣公的銅像，左手拿著手杖，右手拿著軍帽揮動，流露出慈祥的笑容。公園裡松林成蔭，設有賞湖步道、兒童運動公園、石雕、小橋等。",
+				"EToldescribe": "?TaiLake?isthelargestartificialfreshwaterlakeonKinmen.In1976theCountyGovernmentcombinedthemountainandwateratTaiLake?withthegreenfoliageatBanyanParktocreateZhongzhengPark.Tocelebratethe100thbirthdayofPresidentChiangKai-Shek，in1986themilitaryandcivilianpopulationplantedtreesinfrontofBanyanParktocreateamemorialparkwithtrees，water，lotusandawindingbridge.ThenewtreeswereknownastheZhongzhengMemorialForest.",
+				"CoastalActivities": "28",
+				"Amenities": "15",
+				"Tel": "886-82-332528",
+				"CAdd": "金門縣金湖鎮太湖路三段?",
+				"EAdd": "Sec.3，TaihuRd.，JinhuTownship，KinmenCountyTaiwan，R.O.C?",
+				"Opentime": "00:00-24:00",
+				"Website": "https:／／kinmen.travel／zh-tw／Travel／Attraction／484",
+				"Ticketinfo": "免費"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					118.41937,
+					24.43861
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 118.41937,
+				"Py": 24.43861,
+				"CName": "羅保田神父紀念公園",
+				"EName": "Fr.BernardM.DruettoMemorialPark",
+				"CToldescribe": "羅寶田神父因為征戰波及，西元1954年來到金門，從此就在金門落腳，參與了砲戰期間救治傷患的工作，也為當時醫療技術和設備落後的金門民間，貢獻他畢生的精力。位於金湖鎮太湖畔的羅神父紀念園區，正是羅神父當年為金門百姓看病施藥的「天主教堂」所在地。神父過世後由於長久荒廢乏什管理而毀壞，為了紀念羅寶田神父對金門的貢獻，在原地設立了小巧的羅馬拱門廣場，營造歐洲小鎮的氛圍，純潔的白色蔓延在教堂牆面，白色碎石步道一路指引至門前。雖然目前只有一道教堂正面的景觀傳達意象，仍不減金門對羅神父的尊崇。",
+				"EToldescribe": "ItmayseemsurprisingtocomeacrossthefacadeofachurchbesideTaihu(LakeTai)inShanwai.It'samemorialtoFatherBernardDruetto，whocametoKinmenin1954.?PublicmedicalfacilitiesinKinmenweren'twelldevelopedatthetime，andhereatthissite，inaCatholicchurch，hetreatedpatientswoundedfromtheshelling，savinglives.AfterFatherDruettodied，thechurchwasn'tmaintainedandbecamedilapidated.TocommemoratetheFrenchpriest'scontributiontoKinmen，thisparkwascreated.",
+				"CoastalActivities": "28",
+				"Amenities": "15",
+				"Tel": "886-82-332528",
+				"CAdd": "金門縣金湖鎮太湖路二段218號?",
+				"EAdd": "No.218，Sec.2，TaihuRd.，JinhuTownship，KinmenCountyTaiwan，R.O.C?",
+				"Opentime": "00:00-24:00",
+				"Website": "https:／／kinmen.travel／zh-tw／Travel／Attraction／1463",
+				"Ticketinfo": "免費"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					118.43201,
+					24.44394
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 118.43201,
+				"Py": 24.44394,
+				"CName": "榕園",
+				"EName": "BanyanPark",
+				"CToldescribe": "百年的古榕樹齊聚在太湖北岸，「榕園」的意象油然而生，園區裡的榕樹們大多從幾十年前便在此紮根，生長超越一甲子的氣根粗壯無比，枝葉在天空中蜿蜒繚繞，形成一片又一片廣大的綠傘，提供人們乘涼的好所在，午後相約在此下棋飲茶，是金門最道地的生活風景。",
+				"EToldescribe": "There'snothingquiteliketheshadeofahugetreeonasunnyday.YoumightrunintolocalsmeetingupforteaoragameofChinesechesshere.HongShouwasanationalacademyprofessorduringtheMingDynasty.Hewashighlyrespectedformentoringmanystudentswhopassedtheimperialexaminationtobecomegovernmentofficials.Whenthefigtreegardenbecameascenicspot，hishousewasrestored.",
+				"CoastalActivities": "28",
+				"CAdd": "金門縣金湖鎮金湖鎮太湖北岸",
+				"EAdd": "NorthernbankofTaihu，JinhuTownship，KinmenCountyTaiwan，R.O.C?",
+				"Opentime": "00:00-24:00",
+				"Website": "https:／／kinmen.travel／zh-tw／Travel／Attraction／498",
+				"Ticketinfo": "免費"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					118.43231,
+					24.44311
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 118.43231,
+				"Py": 24.44311,
+				"CName": "八二三戰役紀念館",
+				"EName": "August23rdArtilleryBattleMuseum",
+				"CToldescribe": "八二三戰史館建於西元1988年，正是「八二三砲戰」30週年，戰史館外觀為綠色瓦片配上鮮紅圓柱，為一古典中式建築。戰史館正門兩側為國軍將士忠烈錄，牆壁上鐫刻有587位戰役期間殉職官兵的名字，為英勇的事蹟作歷史見証，左側展示F86軍刀機、155公厘加農砲，右側則停放在海陸間穿梭自如的兩棲登陸運兵車、M-24輕型戰車，讓人能夠想像當年陸海空三軍聯合作戰的壯盛情景，展現八二三砲戰始末，與全體軍民精誠團結的英勇表現。館中分為多個展示區，透過圖片、模型等不同的展示方式，讓遊客更能了解砲戰時的猛烈程度及歷史過程，亦設有「震撼劇場」體驗區，供遊客體驗砲火來襲的天搖地動。解說導覽??導覽時間：09:00、10:00、14:00(觀光公車)、15:00、16:00影片導覽??影片名稱：震撼劇場(可容納20人，維修中，暫停開放)??影片長度：3分鐘??播放時間：團體-08:40、09:30、10:30、11:30、13:30、14:30、15:30、16:30散客-09:00、10:00、11:00、12:00、14:00、15:00、16:00",
+				"EToldescribe": "Besidesatimelineaboutthehistoricbattle，youcanalsoseesomeofthemilitaryhardwareused:theF-86Sabrefighterplane，the156-mmhowitzer，anamphibiouslandingvehicle，tracked(LVT)andalighttank，theM24Chaffee.Engravedonthewallsoftheentrancehallarethenamesofthe587officerswholosttheirlivesinthebattle.Thenamesofthe587officerswhohadlosttheirlivesinthebattlewereengravedonthewallsonbothsidesoftheentrancehall.TheleftwingofthemuseumaccommodatestheF-86Sabreandthe155-mmhowitzer.Ontheright，thereisanamphibiouslandingvehicletracked(LVT)andalighttank，theM24Chaffee.Theexhibitsgivevisitorsaglimpseofthejointoperationsthethreeforcescarriedoutinthebattle.Furthermore，visitorscanalsolearnmoreaboutthehistoriceventfromthecomprehensivetimelineandhistoricalfactsoftheAugust23ArtilleryBattleondisplay.Guidedtourschedule，daily-09:00，10:00，13:30，15:00Videoscreeningschedule，daily-”TheaterofShock”，a5-minvideo(inMandarinChinese)-Forgroupvisitors:08:40，9:30，10:30，11:30，13:30，14:30，15:30，16:30-Forindividualvisitors:09:00，10:00，11:00，12:00，14:00，15:00，16:00",
+				"CoastalActivities": "28",
+				"Tel": "886-82-330599",
+				"CAdd": "金門縣金湖鎮安民村1之11號?",
+				"EAdd": "No.1-11，AnminVillage，JinhuTownship，KinmenCountyTaiwan，R.O.C?",
+				"Opentime": "每天08:30-17:00",
+				"Website": "https:／／kinmen.travel／zh-tw／Travel／Attraction／538",
+				"Ticketinfo": "免費"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					118.46851,
+					24.44261
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 118.46851,
+				"Py": 24.44261,
+				"CName": "溪邊海水浴場",
+				"EName": "XibianBeach",
+				"CToldescribe": "溪邊海水浴場位於金湖鎮溪邊村的東側，彎月形的白色沙灘，環抱著一望無際的藍色大海，沙灘上的沙不受污染，沙質綿密、乾淨無暇且細緻，踏上去腳底足感超級棒！沙灘上有許多整齊排列的小沙球，這些是螃蟹製造出來的喔！有這麼多螃蟹在溪邊沙灘上生活，可見這裡真的非常乾淨呢。",
+				"EToldescribe": "XibianBeachislocatedontheeastsideofXibianVillageinJinhuTown.Thecrescent-shapedwhitebeachissurroundedbyanendlessbluesea.Thesandonthebeachisnotpolluted，andthesandisdense，cleanandfine.Steponthesolesofyourfeet.Itfeelsgreat!Therearemanyneatlyarrangedsmallsandballsonthebeach，thesearemadebycrabs!Therearesomanycrabslivingonthebeachbythestream，whichshowsthatitisreallycleanhere.",
+				"CoastalActivities": "26",
+				"Amenities": "15",
+				"CAdd": "金門縣金湖鎮溪邊村四維路旁?",
+				"EAdd": "Xibian，JinhuTownship，KinmenCountyTaiwan(R.O.C.)",
+				"Opentime": "00:00-24:00",
+				"Website": "https:／／kinmen.travel／zh-tw／Travel／Attraction／423",
+				"Ticketinfo": "免費"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					118.46655,
+					24.44773
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 118.46655,
+				"Py": 24.44773,
+				"CName": "復國墩觀景區",
+				"EName": "FuguoDunguanScenicArea",
+				"CToldescribe": "復國墩聚落則位處金門島最東端，路經傳統古厝聚落後可抵達邊，可看到一些還保留著的軍事工事。這裡沿海為岩岸地形，花崗岩體隆起形成陡峭的斜坡，居高臨下的位置，特別適合設置崗哨。為了防禦敵軍登陸，岩坡上可見遍值葉緣具有鋸齒的龍舌蘭，還有破碎的玻璃酒瓶以混凝土固定在岩石上，形成一整片銳利的「刀坡」。復國墩原名蚵殼墩，意指由蚵殼堆起來的高地，是一半島型的礁石海岸，但卻不產任何蚵仔，經考古研究發現，此地有大量貝塚遺址，存在年代距今約七、八千年前，此重大發現，定名為「復國墩文化」。復國墩周圍多礁岩：目礁、尖礁、黑礁等坐落於海中，在聚落南側目前建有斜坡步道，可達原天然漁船停靠處，後來於後方興建堤岸與海中礁嶼相連，擴建為漁港，目前雖少漁船在此進出，附近海域卻為優良的漁場，吸引眾多釣客到此垂釣。復國墩擁有特殊紅土層地質景觀，周圍的地表還能見到在眾多地質作用下造就而成的特殊地形，是天然的地質教室，到此遊覽不妨細心觀看，腳下所踩岩石的特殊風貌。",
+				"EToldescribe": "TheFuguodunsettlementislocatedattheeasternmosttipofKinmenIsland.Itcanbereachedafterpassingthroughthetraditionalancienthouses.Youcanseesomeremainingmilitaryfortifications.Thecoasthereisarockyterrain，andthegranitebodyupliftstoformasteepslope，occupyingahighandcondescendingposition，whichisespeciallysuitableforsettingupguardposts.Inordertopreventenemylandings，agavewithserratedleafedgescanbeseeneverywhereontherockslope，andbrokenglasswinebottlesarefixedontherockwithconcrete，formingawholesharp”knifeslope”.FuguoDun，formerlyknownasoystershelldun，meansahighlandpiledupbyoystershells.Itisapeninsula-shapedreefcoast，butdoesnotproduceanyoysters.Archaeologicalstudieshavefoundthattherearealargenumberofshellmoundsinthisarea，whichexistedaboutsevenyearsago.，Eightthousandyearsago，thismajordiscoverywasnamed”FuguoDunCulture.”TherearemanyreefrocksaroundFuguoPier:Mujiao，Jianjiao，Heijiao，etc.arelocatedinthesea.Thereiscurrentlyaslopedtrailonthesouthsideofthesettlement，whichcanreachtheoriginalnaturalfishingboatstop.Later，adikewasbuiltinthereartoconnectwiththereefislandinthesea，anditwasexpanded.Itisafishingport.Althoughfewfishingboatscomeinandouthere，thenearbywatersareexcellentfishinggrounds，attractingmanyfishermentogofishinghere.FuguoDunhasaspecialredsoillayergeologicallandscape.Thesurroundinggroundcanalsoseespecialterraincreatedbymanygeologicalactions.Itisanaturalgeologicalclassroom.Youmaywishtotakeacloserlookatthespecialfeaturesoftherocksunderyourfeet.",
+				"CoastalActivities": "28",
+				"Amenities": "15",
+				"CAdd": "?金門縣金湖鎮四維路?",
+				"EAdd": "Xibian，JinhuTownship，KinmenCountyTaiwan(R.O.C.)",
+				"Opentime": "00:00-24:00",
+				"Website": "https:／／kinmen.travel／zh-tw／Travel／Attraction／456",
+				"Ticketinfo": "免費"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					118.41792,
+					24.44785
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 118.41792,
+				"Py": 24.44785,
+				"CName": "迎賓館-鄧麗君紀念館",
+				"EName": "KinmenGuesthouse",
+				"CToldescribe": "迎賓館位於太武山南雄山麓，為深入花崗岩體的坑道賓館，是金門戰地政務時代最著名的外賓接待所，於1980年完工，被稱為「地下希爾頓飯店」。迎賓館共有31間房間，位於後方長320公尺的坑道內，目前保留了兩間房間的樣貌，一間為新加坡前總理李光耀住過，另一間則是鄧麗君於金門勞軍時多次留宿的「018」房。迎賓館一樓大廳以「戰地防禦設施」及「迎賓館簡介」為展示主軸，陳列如軌條砦、反空降樁、鐵絲網、雷區等軍事地景，呈現戰地政務時期處處戰備的環境。迎賓館二樓以「勞軍」為主題，展示了鄧麗君前來金門勞軍的照片及影片，不要錯過館內撥放的「君在前哨」紀錄片，帶你看見鄧麗君小姐「軍中情人」稱號是從何而來！導覽影片??影片名稱：君在前哨??片長：約15分鐘??播放時間：08:40、09:30、10:30、11:30、13:30、14:30、15:30??預約播放時間：09:00、10:00、11:00、14:00、15:00、16:00解說導覽??預約解說時間：09:00、10:00、11:00、14:00、15:00、16:00。??預約展示館解說需為15人以上(40人以下)。??為非營利單位(旅行社、遊覽公司等旅遊營利單位不受理)之團體方可預約。??預約須於7天前電話提出申請，取消預約須於1天前提出申請，未取消預約且未於預約時間前五分鐘到達者，半年內不得申請預約。",
+				"EToldescribe": "KinmenGuesthouseislocatedtothefootofMountTaiwu.Itisatunnelhotelthatpenetratesthroughgranite.Itwasthemostfamousguesthouseduringthecivilwar.Itwascompletedin1980andhasbeencalled”undergroundHilton.”Theguesthousehas31roomsinatunnelthatis320-meterlong.Theoriginaltworoomshavebeenpreserved:oneonceaccommodatedformerPrimeMinisterofSingapore，LeeKuanYew，whereastheotheraccommodatedTeresaTengseveraltimeswhenshewasperformingforthesoldiersinKinmen，RoomNo.018.Themainhallonthefirstflooroftheguesthouseuses“battlefielddefenseequipment”and“introduction”asthemainthemesandexhibitsanti-landingpiles，anti-landingpoles，steelwires，andminefieldstoshowtheintenseatmosphereduringthecivilwar.Thethemeonthesecondflooris“ArmedForceEntertainment，”whichshowcasesthephotosandvideosofTeresaTengperformingforthesoldiersinKinmen.Don'tmissoutonthedocumentary“Front-LineSoldiers”showninthemuseum，inwhichyoucanseewhyTenggothernameas“thesoldiers’sweetheart.”VideoGuide??Videoname:“Front-LineSoldiers“??Duration:Around15minutes??ShowTimes:08:40、09:30、10:30、11:30、13:30、14:30、15:30??ShowTimesuponReservation：09:00、10:00、11:00、14:00、15:00、16:00GuidedTour??TourTimesuponReservation:09:00、10:00、11:00、14:00、15:00、16:00??Theminimumnumberofpeopleformakingareservationis15(andnomorethan40).??Weonlyacceptreservationsmadebynon-profitorganizations(reservationsmadebytravelagenciesandtourcompaniesarenotaccepted).??Pleasemakeareservationviatelephoneatleast7daysbeforeyourvisit.Cancellationmustbe1daybeforeyourvisit.Ifyoufailtoshowup5minutesbeforethereservedtimeslotwithoutcancellation，youwillnotbeabletomakeanotherreservationwithin6months.",
+				"CoastalActivities": "28",
+				"Tel": "886-82-336579",
+				"CAdd": "金門縣金湖鎮山外里山外72之1號",
+				"EAdd": "No.72-1，Shanwai，JinhuTownship，KinmenCountyTaiwan，R.O.C",
+				"Opentime": "每天08:30-17:00",
+				"Website": "https:／／kinmen.travel／zh-tw／Travel／Attraction／1540",
+				"Ticketinfo": "免費"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					118.37291,
+					24.45518
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 118.37291,
+				"Py": 24.45518,
+				"CName": "瓊林戰鬥坑道",
+				"EName": "QionglinTunnel",
+				"CToldescribe": "全長1，355公尺的瓊林戰鬥坑道，是金門規模最大的民防坑道，錯綜複雜的坑道密佈於瓊林村的地底下，共有12個出入口，連接著村中的重要建築物，也可通往村外的機槍堡射口，入口就位於瓊林村辦公室的正下方。瓊林戰鬥坑道是兩岸對峙時期的村落戰鬥防禦設施，於西元1976年完成。坑道內設有指揮所、機槍射口、水井等，就是為了長期戰鬥作準備。坑道內昏黃的燈光讓視覺有點恍惚，狹小如迷宮般的走道通往各處，來到瓊林時不妨親自走一趟瓊林戰鬥坑道，感受下戰時緊張的肅殺氛圍及構築坑道時的辛勞。",
+				"EToldescribe": "The1355-meter-longQionglinTunnelisKinmen'slargest?civildefensetunnel.CrossingQionglinVillageunderground，ithas12entrancesandexitsthatleadtoimportantfacilitiesinthevillageaswellasthegunfortressjustoutsidethevillage.ThecommandcenterforthetunnelisrightbeneaththeQionglinVillageOffice.TheentrancetothetunnelisattheVillageOffice.Builtin1976，QionglinTunnelwasregularlyusedbyvillagerstoshelterfromfallingbombsduringthecivilwar.It'sevenequippedwithawellincaseoflongtermstaysDependinghowlongyoutaketolookatthedisplaysinside，ittakesabout20-30mintowalktheentirelengthofthetunnel.Onceyoureachtheexit，taketimetoenjoystrollingbacktotheVillageOfficewhereyoustarted，thistimeaboveground.",
+				"CoastalActivities": "28",
+				"Tel": "886-82-332164",
+				"CAdd": "金門縣金湖鎮金門縣金湖鎮瓊林村236-1號(瓊林村辦公室)?",
+				"EAdd": "QionglinSt.，JinhuTownship，KinmenCountyTaiwan，R.O.C?",
+				"Opentime": "每天08:30-17:00",
+				"Website": "https:／／kinmen.travel／zh-tw／Travel／Attraction／1345",
+				"Ticketinfo": "免費"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					118.38483,
+					24.44832
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 118.38483,
+				"Py": 24.44832,
+				"CName": "小徑831特約茶室展示館",
+				"EName": "MilitaryBrothelExhibitionHall",
+				"CToldescribe": "位於小徑村內的特約茶室展示館，前身為「八三夭」（「831」）亦稱為「軍中樂園」。早期大批阿兵哥因戰爭退守金門，大都借住在民房或屋主僑居南洋的空屋，以及各村落的祠堂、廟宇等地。但和居民長時間的相處下，軍民間難免會衍生一些男女感情糾紛，為了解決此類問題，金門於西元1950年，在金門朱子祠附近設立了第一座「軍中樂園」，而現今的特約茶室展示館則是利用原有之「小徑特約茶室」的空間，來陳展這一段歷史。現今的特約茶室揮別了以往，藉由觀光注入新的生命，當你走進特約茶室，能透過牆面上的文字故事，了解擔任侍應生的百般無奈及戰爭的殘酷。逛完屋內的展覽後，也可至咖啡廳短暫休憩，慢想歷史戰事的反饋，讓旅遊更具意義。",
+				"EToldescribe": "TheMilitaryBrothelExhibitionHallinXiaojingVillagenicknamed“831”or“militarywonderland”wasrenovatedin2010andmadeatouristattraction.Duringwartime，asmanyas100，000soldiersretreatedandbecamestationedinKinmen.Duetothatin-trainingandon-dutysoldierswereprohibitedfromgettingmarriedbyMinistryofNationalDefense，andthatthevacationsystemwasincomplete，thefirstmilitarybrothelwasestablishedtosatisfythesexualneedsofsoldiersstationedinKinmenin1951.Therewereonceseven831’sinKinmenlocatedinBeimen，Anqian，Xiaojing，Chenggong，Xinshili，YangzhaiinJinsha，andXizhaiinLesserKinmen.TheMilitaryBrothelExhibitionHallusesthespaceoftheformerXiaojingSpecialTeaHousetoshowcasethehistory.Throughdecorationsandtextualdescriptionsonthewall，visitorscanlearnaboutthehistoryandlivingandworkingconditionsofthewaitressesthen.Thereisalsoacafeinthemuseumwherevisitorscantakeashortbreak.",
+				"CoastalActivities": "28",
+				"Tel": "886-82-337839",
+				"CAdd": "金門縣金湖鎮小徑126號?",
+				"EAdd": "No.126，Xiaojing，JinhuTownship，KinmenCountyTaiwan，R.O.C?",
+				"Opentime": "每天08:30-17:00",
+				"Website": "https:／／kinmen.travel／zh-tw／Travel／Attraction／1822",
+				"Ticketinfo": "免費"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					118.38711,
+					24.44769
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 118.38711,
+				"Py": 24.44769,
+				"CName": "明魯王墓園",
+				"EName": "MingluKingCemetery",
+				"CToldescribe": "??明魯王墓位於太武山西南山麓，背枕太武山、面臨雙乳峰，可眺望大陸山河，依天然形勢成三級梯狀，首先牌坊再來黃蓋亭，亭中安置千斤鼎，最後看見石塊砌築的圓形新塚。明魯王墓是在民國48年，奉先總統蔣公指示建墓，於52年舉行安葬大典，墓園四周環境清幽。民國48年8月22日，國軍在金門舊金城東炸山採石時，發現了一座古墓。並在石穴中找到一個石碑。經解讀碑文後，發現為明朝監國魯王的壙誌。同時出土的還包括了永曆通寶及方磚等。碑文闡述的魯王生平事蹟，也可以考證魯王的過世非如清廷文獻所述，死於鄭成功的謀害，乃因死於喘疾。這個發現，洗去了鄭成功多年不白之冤。而後更發現，鄭成功的過世還在魯王之前。",
+				"EToldescribe": "ThetombofKingLuofMingDynastyislocatedinthesouthwestfoothillsofTaiwuMountain.ItisbackedbyTaiwuMountainandfacesShuangruPeak.Itoverlooksthemountainsandriversofthemainland.Itisformedintoathree-levelladderaccordingtothenaturalsituation.Newroundmasonrymound.ThetombofMingluKingwasbuiltinthe48thyearoftheRepublicofChina.ThetombwasbuiltundertheinstructionsoftheformerPresidentJiangGong.Theburialceremonywasheldin52.Thesurroundingenvironmentofthecemeteryisquiet.OnAugust22，RepublicofChina，thearmyfoundanancienttombwhilebombingandquarryingintheeastofJinmenOldJincheng.Andfoundasteleinthecave.Afterinterpretingtheinscription，itwasdiscoveredthatitwastheMingDynasty'ssuperintendentofKingLu.AlsounearthedatthesametimeincludeYongliTongbaoandsquarebricks.ThelifeanddeedsofKingLudescribedintheinscriptioncanalsoprovethatKingLu’sdeathwasnotduetoZhengChenggong’smurder，asdescribedinQingcourtdocuments，butduetoasthma.ThisdiscoveryhaswashedawayZhengChenggong'smanyyearsofinjustice.Later，itwasdiscoveredthatZhengChenggong'sdeathwasstillbeforeKingLu.",
+				"CoastalActivities": "28",
+				"Amenities": "15",
+				"Tel": "886-82-313100",
+				"CAdd": "金門縣金湖鎮伯玉路五段旁?",
+				"EAdd": "Sec.5，BoyuRd.，JinhuTownship，KinmenCountyTaiwan(R.O.C.)",
+				"Opentime": "00:00-24:00",
+				"Website": "https:／／kinmen.travel／zh-tw／Travel／Attraction／689",
+				"Ticketinfo": "免費"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					118.37971,
+					24.43786
+				]
+			},
+			"properties": {
+				"Changtime": "0001-01-01T00:00:00Z",
+				"Px": 118.37971,
+				"Py": 24.43786,
+				"CName": "柳營營區",
+				"EName": "LiuyuMilitaryCamp",
+				"CToldescribe": "要說金門最真實的戰地氛圍體驗點，則非柳營營區莫屬！其前身是尚義工兵營。在部隊裁撤後成了閒置空間，然而這裡是經歷戰火歷練的場地，具有豐富的文化價值，為了活化史蹟，金門縣政府特地在柳營營區內增設遊憩設施。",
+				"EToldescribe": "Donamilitaryuniformandexperiencethethrillofabattlegroundwithoutthedanger.Atthisformermilitarybase，youcantestyourshootingskillsonalasertag”battleground”anddartplayground.",
+				"CoastalActivities": "28",
+				"Tel": "886-82-335027",
+				"EAdd": "NearNo.9CoastalPatrolBrigade，No.198，ShangyiVillage，JinhuTownship，KinmenCountyTaiwan，R.O.C",
+				"Opentime": "09:00-12:00／13:30-16:30",
+				"OpenremarkC": "每周一休息",
+				"OpenremarkE": "ClosedeveryMonday",
+				"Website": "https:／／kinmen.travel／zh-tw／Travel／Attraction／1391",
+				"Ticketinfo": "50元"
+			}
+		}
+	]
+}
